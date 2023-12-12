@@ -1,0 +1,8 @@
+fuzzywuzzy
+fuzzysearch
+jsonlines
+numpy
+openai
+pandas
+pyheaven
+transformers

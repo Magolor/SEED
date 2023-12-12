@@ -1,0 +1,14 @@
+.DS_Store
+.STATE
+*.pyc
+__pycache__
+projects/
+docs/
+public.bash
+private.bash
+clear.bash
+push.bash
+SeeD/src
+SeeD/pkg
+SeeD/build
+installer.py
