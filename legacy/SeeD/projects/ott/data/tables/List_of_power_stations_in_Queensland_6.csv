@@ -1,0 +1,21 @@
+Power station,Max . capacity ( MW ),Turbines,Fuel Type,Conveyance
+"Babinda Sugar Mill , Decommissioned",0,1,bagasse,on-site
+"Bingera Sugar Mill , Bundaberg Sugar",5,2,bagasse,on-site
+"Farleigh Mill , Mackay Sugar Ltd",13,4,bagasse,on-site
+"Gympie Coffee Manufacturing , Nestlé",16,1,coffee grounds and sawdust,on-site
+"Inkerman Mill , Wilmar International",10,2,bagasse,on-site
+"Invicta Mill , Wilmar International",38.8,1,bagasse,on-site
+Isis Central Sugar Mill,11.5,4,bagasse,on-site
+"Kalamia Mill , Wilmar International",9,1,bagasse,on-site
+"Macknade Mill , Wilmar International",8,2,bagasse,on-site
+"Marian Mill , Mackay Sugar Ltd",18,3,bagasse,on-site
+"Maryborough Sugar Factory , MSF Sugar Ltd",4.75,3,bagasse,on-site
+"Millaquin Sugar Mill , Bundaberg Sugar",5,3,bagasse,on-site
+"Mossman Central Mill , Mackay Sugar",11.85,5,bagasse,on-site
+"Mourilyan Sugar Mill , Decommissioned",0,5,bagasse,on-site
+"Mulgrave Sugar Mill , MSF Sugar Ltd",10.5,4,bagasse,on-site
+"Pioneer Mill , Wilmar International",68,2,bagasse,on-site
+"Pleystowe Mill , Decommissioned",0,2,bagasse,on-site
+"Proserpine Sugar Mill , Wilmar International",20,4,bagasse,on-site
+"Racecourse Mill , Mackay Sugar Ltd",13.8,2,bagasse,on-site
+Rocky Point,30,1,"bagasse , wood waste","on-site , road"

@@ -1,0 +1,21 @@
+Plant,State,MW,Type,Owner/operator
+Connaught Bridge Power Station,Selangor at Klang,832,"Combined cycle ( 1 ST , 2 GT ) , open cycle ( 4 GT )",Tenaga Nasional Berhad
+Genting Sanyen Kuala Langat Power Plant,Selangor at Kuala Langat,720,Combined cycle,Genting Sanyen Power Sdn Bhd
+Karambunai Power Station,Sabah at Karambunai,120,Combined Cycle ( 4 GT + 2 GT ),"Ranhill Powertron Sdn Bhd , a subsidiary of Ranhill Berhad"
+Lumut GB3 Power Station,Perak at Pantai Remis,651,"Combined cycle ( 1 ST ) , open cycle ( 3 GT )","GB3 Sdn Bhd , a subsidiary of Malakoff"
+Lumut Power Station,Perak at Pantai Remis,"1,303","Combined cycle ( 6 GT , 2 ST )","Segari Energy Ventures Sdn Bhd , a subsidiary of Malakoff"
+Nur Generation Plants,Kedah in Kulim High-Tech Industrial Park,220,"Combined cycle ( 4 GT , 2 ST )",Nur Generation Sdn Bhd
+Paka power station,Terengganu at Paka,808,"Combined cycle ( 4 GT , 2 ST )",YTL Power International Berhad
+Southern Power Generation Sdn Bhd,Johor at Pasir Gudang,"1,440","Combined cycle ( 2 GT , 1ST )",Tenaga Nasional Berhad
+Petronas Gas Centralised Utilities Facilities ( CUF ),Pahang ( Gebeng - Kerteh ),324,Cogen ( 9 GT ),Petronas Gas Berhad
+Port Dickson Power Station,Negeri Sembilan in Port Dickson,440,Open cycle ( 4 GT ),Malakoff Berhad
+Prai power station,Penang at Perai,1071,"Combined cycle ( 2 GT , 1ST )",Tenaga Nasional Berhad
+Putrajaya Power Station,Selangor at Serdang,625,Open cycle ( 5 GT ),Tenaga Nasional Berhad
+Pujut Power Station,Sarawak at Pujut,104,,"Sarawak Power Generation Sdn Bhd , a subsidiary of Sarawak Energy Berhad"
+Sarawak Power Generation Plant,Sarawak at Bintulu,515,Open cycle ( 2 GT ),"Sarawak Power Generation Sdn Bhd , a subsidiary of Sarawak Energy Berhad"
+Sepanggar Bay Power Plant,Sabah at Kota Kinabalu Industrial Park,100,Combined cycle,Sepangar Bay Power Corporation Sdn Bhd
+Pasir Gudang Energy,Johor at Pasir Gudang,729,"Thermal ( 2 ST ) , combined cycle ( 2 GT , 1 ST ) , open cycle ( 2 GT )",Tenaga Nasional Berhad
+Sultan Ismail Power Station,Terengganu at Paka,"1,136","Combined cycle ( 8 GT , 4 ST )",Tenaga Nasional Berhad
+Tanjung Kling Power Station,Malacca at Tanjung Kling,330,"Combined cycle ( 2 GT , 1 ST )","Pahlawan Power , a subsidiary of Powertek"
+Telok Gong Power Station 1,Malacca at Telok Gong,440,Open cycle ( 4 GT ),Powertek
+Telok Gong Power Station 2,Malacca at Telok Gong,720,"Combined cycle ( 2 GT , 1ST )","Panglima Power , a subsidiary of Powertek"

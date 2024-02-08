@@ -1,0 +1,17 @@
+OLAP server,Company,Latest stable version,Software license,License pricing
+Apache Kylin,Apache Software Foundation,2.5.1,Apache 2.0,free
+Druid,Open source community,0.11.0,Apache 2.0,free
+Apache Pinot ( Incubating ),Apache Software Foundation,0.2.0,Apache 2.0,free
+Essbase,Oracle,11.1.2.4,Proprietary,[ 1 ]
+IBM Cognos TM1,IBM,10.2.2 FP7,Proprietary,-
+icCube,icCube,6.8.9,Proprietary,community/ [ 2 ]
+Infor BI OLAP Server,Infor,10.6.0,Proprietary,-
+Jedox OLAP Server,Jedox,2019.3,Proprietary,[ 3 ]
+Kyligence,Kyligence,3.2.1,Proprietary,-
+Kyvos,Kyvos Insights,5.3,Proprietary,-
+Microsoft Analysis Services,Microsoft,2016,Proprietary,[ 4 ]
+MicroStrategy Intelligence Server,MicroStrategy,10.11,Proprietary,-
+Mondrian OLAP server,Pentaho,3.7,EPL,free
+Oracle Database OLAP Option,Oracle,11g R2,Proprietary,[ 5 ]
+SAP NetWeaver BW,SAP,7.30,Proprietary,-
+SAS OLAP Server,SAS Institute,9.4,Proprietary,-

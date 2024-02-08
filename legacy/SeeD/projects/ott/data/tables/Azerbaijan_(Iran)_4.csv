@@ -1,0 +1,16 @@
+type,Number Road,Distance ( km ),Distance ( mi ),City of Origin,City of Destination
+Freeways,Freeway 2 ( Iran ),600,370,Tehran,Tabriz ( Az )
+Highways and Roads,Road 11 ( Iran ),325,202,Jolfa ( Az ),Baneh
+Highways and Roads,Road 12 ( Iran ),572,355,Bazargan ( Az ),Bileh Savar ( Az )
+Highways and Roads,Road 14 ( Iran ),460,290,"Razi , Ardabil ( Az )",Salmas ( Az )
+Highways and Roads,Road 16 ( Iran ),428,266,Astara,Serow ( Az )
+Highways and Roads,Road 21 ( Iran ),978,608,Ilam,Jolfa ( Az )
+Highways and Roads,Road 22 ( Iran ),428,266,Sarakhs,Khalkhal ( Az )
+Highways and Roads,Road 23 ( Iran ),390,240,Miandoab ( Az ),Hamadan
+Highways and Roads,Road 24 ( Iran ),142,88,Hashtrud ( Az ),Bonab ( Az )
+Highways and Roads,Road 26 ( Iran ),151,94,Miandoab ( Az ),Piranshahr ( Az )
+Highways and Roads,Road 27 ( Iran ),245,152,Khomarlu ( Az ),Tabriz ( Az )
+Highways and Roads,Road 31 ( Iran ),539,335,Parsabad ( Az ),Manjil
+Highways and Roads,Road 32 ( Iran ),880,550,Tehran,Bazargan ( Az )
+Highways and Roads,Road 33 ( Iran ),155,96,Ardabil ( Az ),Bileh Savar ( Az )
+Highways and Roads,Road 35 ( Iran ),155,96,Zanjan ( Az ),Khorramabad

@@ -1,0 +1,12 @@
+Frequency,UHF,kW,Operator,System
+729.833 MHz,53-,4,Arqiva ( Mux C ),DVB-T
+737.833 MHz,54-,4,BBC ( Mux 1 ),DVB-T
+743.25 MHz,55,100,BBC One,PAL
+761.833 MHz,57-,4,Arqiva ( Mux D ),DVB-T
+769.833 MHz,58-,4,Digital 3 & 4 ( Mux 2 ),DVB-T
+775.25 MHz,59,100,ITV1,PAL
+793.833 MHz,61-,4,SDN ( Mux A ),DVB-T
+799.25 MHz,62,100,BBC Two,PAL
+817.833 MHz,64-,4,BBC ( Mux B ),DVB-T
+823.25 MHz,65,100,Channel 4,PAL
+839.25 MHz,67,2,Channel 5,PAL

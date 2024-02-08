@@ -1,0 +1,21 @@
+Year,Manufacturer,Model,Capacity,Advancements
+1951,Remington Rand,UNISERVO,224 KB,"First computer tape drive , used ​ ⁄ 2 nickel -plated phosphor bronze tape"
+1952,IBM,726,,Use of plastic tape ( cellulose acetate ) ; 7-track tape that could store every 6-bit byte plus a parity bit
+1958,IBM,729,,"Separate read/write heads providing transparent read-after-write verification . As of January 2009 , the Computer History Museum in Mountain View , California has working IBM 729 tape drives attached to its working IBM 1401 system"
+1964,IBM,2400,,9-track tape that could store every 8-bit byte plus a parity bit
+1970s,IBM,3400,,"Auto-loading tape reels and drives , avoiding manual tape threading Group coded recording for error recovery"
+1972,3M,Quarter Inch Cartridge ( QIC-11 ),20 MB,Tape cassette ( with two reels ) Linear serpentine recording
+1974,IBM,3850,,Tape cartridge ( with single reel ) First tape library with robotic access
+1975,( various ),Kansas City standard,,Use of standard audio cassettes
+1977,Commodore International,Commodore Datasette,1978 KB,Also used standard audio cassettes
+1980,Cipher,( F880 ? ),,RAM buffer to mask start-stop delays
+1984,IBM,3480,200 MB,Internal takeup reel with automatic tape takeup mechanism . Thin-film magnetoresistive ( MR ) head
+1984,DEC,TK50,94 MB,Digital Linear Tape ( DLT ) line of products
+1986,IBM,3480,400 MB,Hardware data compression ( IDRC algorithm )
+1987,Exabyte / Sony,EXB-8200,2.4 GB,First helical digital tape drive Elimination of the capstan and pinch-roller system
+1993,DEC,Tx87,,Tape directory ( database with first tapemark nr on each serpentine pass )
+1995,IBM,3570,,Servo tracks - factory-recorded tracks for precise head positioning ( Time Based Servoing or TBS ) Tape on unload rewound to the midpoint - halving access time ( requires two-reel cassette )
+1996,HP,DDS3,12 GB,Partial Response Maximum Likelihood ( PRML ) reading method - no fixed thresholds
+1997,IBM,VTS,,Virtual tape - disk cache that emulates tape drive
+1999,Exabyte,Mammoth-2,60 GB,The small cloth-covered wheel cleaning tape heads Inactive burnishing heads to prep the tape and deflect any debris or excess lubricant Section of cleaning material at the beginning of each data tape
+2000,Quantum,Super DLT,110 GB,Optical servo precisely positioning the heads

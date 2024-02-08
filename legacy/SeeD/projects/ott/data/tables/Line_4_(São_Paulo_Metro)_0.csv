@@ -1,0 +1,12 @@
+Code,Station,Platforms,Position,Connections,District
+LUZ,Luz,Side platforms,Underground,1 7 11 13 ( Airport-Express ),Bom Retiro
+REP,República,Side platforms,Underground,3,República
+HIG,Higienópolis-Mackenzie,Side platforms,Underground,6 ( Future ),Consolação
+PTA,Paulista,Side platforms,Underground,2,Consolação
+FRE,Oscar Freire,Side platforms,Underground,-,Jardim Paulista
+FRA,Fradique Coutinho,Side platforms,Underground,-,Pinheiros
+FAL,Faria Lima,Side platforms,Underground,Largo da Batata Bus Terminal 20 ( Planned ),Pinheiros
+PIN,Pinheiros,Side platforms,Underground,Pinheiros Bus Terminal 9,Pinheiros
+BUT,Butantã,Side platforms,Underground,Butantã Bus Terminal Itapevi-Butantã Metropolitan Corridor,Butantã
+MBI,São Paulo-Morumbi,Side platforms,Underground,Morumbi Bus Terminal 17 ( Planned ),Morumbi
+VSO,Vila Sônia,Side platforms,Underground,Vila Sônia Bus Terminal ( Future ),Vila Sônia

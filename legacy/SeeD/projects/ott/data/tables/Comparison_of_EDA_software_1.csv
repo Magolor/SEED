@@ -1,0 +1,17 @@
+Name,Architecture,License,Autorouter,Comment
+Electric,"*BSD , Java",GPL,Yes,VLSI circuit design tool with connectivity at all levels . Can also be used for schematic entry and PCB design
+FreePCB,w32,GPL,Yes,"A printed circuit board design program for Microsoft Windows . FreePCB allows for up to 16 copper layers , both metric and US customary units , and export of designs in Gerber format . Boards can be partially or fully autorouted with the FreeRouting autorouter by using the FpcROUTE Specctra DSN design file translator"
+Fritzing,"Windows , Mac , Linux",GPL,Yes,"Protoboard view , schematic view , PCB view , Code ( firmware ) view . Includes customizable design rule checker . Includes common shaped boards like Arduino and Raspberry Pi shields . Allows spline curve traces . Only two layers ( top and bottom ) . Outputs gerbers"
+gEDA,"*BSD , Linux , Mac",GPL,Yes,"schematic , simulation , PCB editor , gerber view"
+Gnucap,any ( C++98 ),GPL3,No,Mixed-signal circuit simulator
+Icarus Verilog,"*BSD , Linux , Mac",GPL,No,Verilog simulator
+KiCad,"Linux , Mac , Windows",GNU GPL,"Built-in , or FreeRouting","Full package for schematic and board design , etc . Design rule checking . User-defined symbols and footprints . Gerber/ drill file creation . Graphic interface . Active user community"
+KTechLab,Linux,GPL,No,KTechLab is a schematic capture and simulator . It is specifically geared toward mixed signal simulation of analog components and small digital processors
+LTspice,"Windows 7-10 , macOS 10.7+",?,No,"LTspice is a schematic capture and analog simulator . It was original started by Linear Technology , now part of Analog Devices"
+Magic,Linux,BSD license,No,A very-large-scale integration layout tool
+Ngspice,"Linux , Solaris , Mac , NetBSD , FreeBSD , w32",BSD,No,SPICE + XSPICE + Cider
+Oregano,,GPL,No,Schematic capture + spice simulation
+Quite Universal Circuit Simulator ( QUCS ),"Linux , Solaris , Mac , NetBSD , FreeBSD , w32",GPL,No,Schematic capture + Verilog + VHDL + simulation
+pcb-rnd,"*BSD , Linux , Mac , w32",GPL,Yes,"Circuit layout program with extended file format support , DRC , parametric footprints , query language , and GUI and command line operation for batch processing and automation"
+Verilator,Posix,GPL,No,"Verilator is the fastest free Verilog HDL simulator . It compiles synthesizable Verilog into cycle accurate C++ or SystemC code following 2-state synthesis ( zero delay ) semantics . Benchmarks reported on its website suggest it is several times faster than commercial event driven simulators such as ModelSim , NC-Verilog and VCS , while not quite as fast as commercial cycle accurate modeling tools such as Carbon ModelStudio and ARC VTOC"
+XCircuit,Unix,GPL,No,Used to produce netlists and publish high-quality drawings

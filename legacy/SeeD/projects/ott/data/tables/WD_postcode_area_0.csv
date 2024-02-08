@@ -1,0 +1,13 @@
+Postcode district,Post town,Coverage,Local authority area
+WD3,RICKMANSWORTH,"Rickmansworth , Chorleywood , Croxley Green , Loudwater , Mill End , Maple Cross , Sarratt , Batchworth , Chenies , Harefield ( part ) , West Hyde , Heronsgate , Chandler 's Cross","Three Rivers , Chiltern , Hillingdon"
+WD4,KINGS LANGLEY,"Kings Langley , Chipperfield , Hunton Bridge , Rucklers Lane , Bucks Hill","Dacorum , Three Rivers"
+WD5,ABBOTS LANGLEY,"Abbots Langley , Bedmond","Three Rivers , St Albans"
+WD6,BOREHAMWOOD,"Borehamwood , Elstree , Well End",Hertsmere
+WD7,RADLETT,"Radlett , Shenley","Hertsmere , St Albans"
+WD17,WATFORD,"Watford town centre , Cassiobury , Nascot Wood",Watford
+WD18,WATFORD,"West Watford , Holywell",Watford
+WD19,WATFORD,"Oxhey , South Oxhey , Carpenders Park","Three Rivers , Watford"
+WD23,BUSHEY,"Bushey , Bushey Heath","Hertsmere , Watford"
+WD24,WATFORD,North Watford,Watford
+WD25,WATFORD,"Garston , Leavesden , Aldenham , Letchmore Heath","Watford , Hertsmere , Three Rivers , St Albans"
+WD99,WATFORD,Jobcentre Plus,non-geographic

@@ -1,0 +1,16 @@
+Implementation,FIPS 140 validated,FIPS 140-2 mode,DO-178
+Botan,No,No,No
+Bouncy Castle,Yes,Yes,No
+cryptlib,No,Yes,No
+Crypto++,No,No,No
+GnuTLS,Yes,Yes,No
+Libgcrypt,Yes,Yes,No
+libsodium,No,No,No
+NaCl,No,No,No
+Nettle,No,No,No
+Network Security Services ( NSS ),Yes,Yes,No
+OpenSSL,Yes,Yes,No
+RSA BSAFE Crypto-C Micro Edition,Yes,Yes,No
+RSA BSAFE Crypto-J,Yes,Yes,No
+wolfCrypt,Yes,Yes,Yes
+mbed TLS,No,No,No

@@ -1,0 +1,21 @@
+Rank,City,State,Population,Region ( 2016 ),Population ( 2010 )
+01,New York,New York,"33,131",Northeast,"1,585,873 [ Manhattan only ]"
+02,Philadelphia,Pennsylvania,"28,522",Northeast,"1,526,006"
+03,Boston,Massachusetts,"18,320",Northeast,"617,594"
+04,Charleston,South Carolina,"16,359",South,"120,083"
+05,Baltimore,Maryland,"13,503",South,"620,961"
+06,Northern Liberties,Pennsylvania,"9,913",Northeast,N/A
+07,Salem,Massachusetts,"7,921",Northeast,"41,340"
+08,Newport,Rhode Island,"6,716",Northeast,"24,672"
+09,Providence,Rhode Island,"6,380",Northeast,"178,042"
+10,Marblehead,Massachusetts,"5,661",Northeast,"19,808"
+11,Southwark,Pennsylvania,"5,661",Northeast,N/A
+12,Gloucester,Massachusetts,"5,317",Northeast,"28,789"
+13,Newburyport,Massachusetts,"4,837",Northeast,"17,416"
+14,Portsmouth,New Hampshire,"4,720",Northeast,"21,233"
+15,Sherburne,Massachusetts,"4,555",Northeast,"10,172"
+16,Middleborough,Massachusetts,"4,526",Northeast,"23,116"
+17,New Haven,Connecticut,"4,487",Northeast,"129,779"
+18,Taunton,Massachusetts,"3,804",Northeast,"55,874"
+19,Richmond,Virginia,"3,761",South,"204,214"
+20,Albany,New York,"3,498",Northeast,"97,856"

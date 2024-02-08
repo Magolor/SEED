@@ -1,0 +1,21 @@
+Vessel name,Company,Built,Lifting capacity ( t ),Type,Identifier
+Sleipnir,Heerema Marine Contractors,2019,"20,000 ( 10,000 + 10,000 tandem , revolving )",Semi-submersible,IMO number : 9781425
+Thialf,Heerema Marine Contractors,1985,"14,200 ( 7,100 + 7,100 tandem , revolving )",Semi-submersible,IMO number : 8757740
+Saipem 7000,Saipem,1987,"14,000 ( 7,000 + 7,000 tandem , revolving )",Semi-submersible,IMO number : 8501567
+Hyundai-10000,Hyundai Heavy Industries,2015,"10,000",Sheerleg Monohull,MMSI number : 440680000
+Svanen,Van Oord,1991,"8,700",Catamaran,IMO number : 9007453
+Hermod,Heerema Marine Contractors,1978,"8,100 ( 4,500 + 3,600 tandem ; 4,500 + 2,700 revolving )",Semi-submersible ( scrapped ),IMO number : 7710214
+Lanjing,CNOOC,1990,"7,500 ( 4,000 revolving )",Monohull,IMO number : 8907527
+"VB-10,000",Versabar Inc,2010,"6,800",Catamaran,MMSI number : 367490050
+Balder,Heerema Marine Contractors,1978,"6,300 ( 3,600 + 2,700 tandem ; 3,000 + 2,000 revolving )",Semi-submersible,IMO number : 7710226
+Pioneering Spirit,Allseas,2014,"5,000 ( tub crane only )",Monohull,IMO number : 9593505
+Orion,DEME Offshore,2019,"5,000",Monohull,
+Asian Hercules III,Asian Lift ( Keppel Fels / Smit International JV ),2015,"5,000",Sheerleg Monohull,IMO number : 9660396
+Seven Borealis,Subsea 7,2012,"5,000",Monohull,IMO number : 9452787
+Oleg Strashnov,Seaway Heavy Lifting,2011,"5,000",Monohull,IMO number : 9452701
+HL 5000,Deep Offshore Technology,?,"4,500",Sheerleg Barge,
+Oceanic 5000,Oceanic Marine Contractors,2011,"4,400",Monohull,IMO number : 9559145
+Kaisho ( 海翔 ),"Yorigami Maritime Construction Co. , Ltd",?,"4,100",Sheerleg Barge,
+Aegir,Heerema Marine Contractors,2012,"4,000",Monohull,IMO number : 9605396
+Gulliver,Scaldis,2018,"4,000 ( 2,000 + 2,000 tandem )",Sheerleg Barge,IMO number : 9774094
+Yosho ( 洋翔 ),"Yorigami Maritime Construction Co. , Ltd",?,"4,000",Sheerleg Barge,

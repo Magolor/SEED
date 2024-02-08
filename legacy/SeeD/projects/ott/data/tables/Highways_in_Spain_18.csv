@@ -1,0 +1,16 @@
+Signal,Type,Denomination,Itinerary
+CV-10,Interurban,Autovía de la Plana,Nules ( A-7/N-340 ) - Betxí - CV-20 - Castellón de la Plana ( CV-17 ) - CV-16 - Borriol - La Pobla Tornesa - Cabanes - * - Vilanova d'Alcolea - † - La Jana - † - Castellón/ Tarragona border
+CV-18,Interurban,Autovía CV-18,Castellón de la Plana ( CV-197 ) - † - Almazora - * - Burriana - † - Nules ( N-340 )
+CV-30,Partial beltway,Ronda Nord de València,V-30 - Paterna ( CV-31 ) - Valencia ( CV-35 ) - † - Alboraia - † - V-21
+CV-31,Urban,Distribuïdor Nord,Paterna ( CV-30 ) - CV-365 - Burjassot ( CV-35 )
+CV-32,Interurban,Eix de la Gombalda,Massalfassar ( V-21 ) - * - Massamagrell / Museros ( CV-300 ) - † - A-7
+CV-33,Interurban,Distribuïdor Sud,Torrent ( CV-366 ) - Albal
+CV-35,Urban & interurban,Autovía de Ademuz,Valencia ( CV-30 ) - Burjassot ( CV-61/CV-365 ) - A-7 - San Antonio de Benagéber - La Pobla de Vallbona - CV-50 - Llíria
+CV-36,Iinterurban,Autovía de Torrent,Valencia ( Camí Nou de Picanya ) - Picanya ( CV-366 ) - Torrent - Alaquàs - El Mas del Jutge - A-7
+CV-40,Interurban,Autovía CV-40,Xàtiva ( A-7 ) - Ontinyent - Albaida - * - Cocentaina - * - Alcoi - * - A-7
+CV-60,Interurban,Autovía CV-60,L'Olleria ( CV-40 ) - † - Alfarrasí ( N-340 ) - † - CV-610 - Gandía ( CV-600 )
+CV-70,Interurban,Autovía CV-70,Alcoi ( A-7 ) - † - Polop ( N-340 ) - † - Benidorm ( AP-7 )
+CV-80,Interurban,Autovía CV-80,Sax ( A-31 ) - Castalla - A-7
+CV-365,Urban,Northeastern access to Paterna,Burjassot ( CV-35 ) - CV-31 - V-11/V-30
+CV-500,Urban,Autovía del Saler,Valencia ( Alcalde Reig Street ) - V-30 - El Saler
+CV-864,Partial beltway,Ronda Sud de Elx,EL-20 - † - CV-866

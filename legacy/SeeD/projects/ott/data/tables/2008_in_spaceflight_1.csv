@@ -1,0 +1,16 @@
+Family,Country,Launches,Successes,Failures,Partial failures
+Ariane,Europe,6,6,0,0
+Atlas,United States,2,2,0,0
+Delta,United States,5,5,0,0
+H-II,Japan,1,1,0,0
+Falcon,United States,2,1,1,0
+Long March,People 's Republic of China,11,11,0,0
+Pegasus,United States,2,2,0,0
+PSLV,India,3,3,0,0
+R-7,Russia,10,10,0,0
+R-14,Russia,3,3,0,0
+R-36,Ukraine,2,2,0,0
+Safir,Iran,1,0,1,0
+Space Shuttle,United States,4,4,0,0
+Universal Rocket,Russia,11,10,0,1
+Zenit,Ukraine / Russia,6,6,0,0

@@ -1,0 +1,21 @@
+Rank,Airport,Location,Code ( IATA/ICAO ),Total passengers,% change
+1,London Heathrow Airport,"Hillingdon , Greater London , United Kingdom",LHR/EGLL,"66,689,466",3.5%
+2,Dubai International Airport,"Garhoud , Dubai , United Arab Emirates",DXB/OMDB,"65,872,250",15.3%
+3,Hong Kong International Airport,"Chek Lap Kok , Islands , New Territories , Hong Kong",HKG/VHHH,"59,294,439",6.5%
+4,Paris-Charles de Gaulle Airport,"Roissy-en-France , Val d'Oise , Île-de-France , France",CDG/LFPG,"56,767,748",1.0%
+5,Singapore Changi Airport,"Changi , East Region , Singapore",SIN/WSSS,"52,775,360",5.7%
+6,Amsterdam Airport Schiphol,"Haarlemmermeer , North Holland , Netherlands",AMS/EHAM,"52,527,699",3.0%
+7,Frankfurt Airport,"Flughafen , Frankfurt , Hesse , Germany",FRA/EDDF,"51,315,550",1.1%
+8,Suvarnabhumi Airport,"Racha Thewa , Bang Phli , Samut Prakan , Greater Bangkok , Thailand",BKK/VTBS,"41,302,852",4.9%
+9,Seoul Incheon International Airport,"Jung-gu , Incheon , Sudogwon , South Korea",ICN/RKSI,"40,785,953",6.4%
+10,Atatürk International Airport,"Yeşilköy , Bakırköy , Istanbul , Turkey",IST/LTBA,"33,955,798",14.2%
+11,Kuala Lumpur International Airport,"Sepang , Selangor , Malaysia",KUL/WMKK,"32,605,356",18.1%
+12,London Gatwick Airport,"Crawley , West Sussex , United Kingdom",LGW/EGKK,"31,657,805",4.2%
+13,Narita International Airport,"Narita , Chiba , Kantō , Honshū , Japan",NRT/RJAA,"30,516,135",3.0%
+14,Munich Airport,"Oberding / Hallbergmoos / Marzling , Erding / Freising , Bavaria , Germany",MUC/EDDM,"29,216,808",2.1%
+15,Taoyuan International Airport,"Dayuan , Taoyuan , Taiwan",TPE/RCTP,"28,608,274",10.2%
+16,Madrid-Barajas Airport,"Madrid , Comunidad de Madrid , Spain",MAD/LEMD,"27,711,197",9.5%
+17,John F. Kennedy International Airport,"Queens , New York City , New York , United States",JFK/KJFK,"26,530,698",5.9%
+18,Leonardo da Vinci-Fiumicino Airport,"Fiumicino , Rome , Italy",FCO/LIRF,"25,069,617",0.6%
+19,Barcelona-El Prat Airport,"El Prat de Llobregat , Barcelona , Catalonia , Spain",BCN/LEBL,"25,003,256",5.8%
+20,Zurich Airport,"Rümlang / Oberglatt , Bülach / Dielsdorf , ZH , Switzerland",ZRH/LSZH,"24,227,178",0.4%

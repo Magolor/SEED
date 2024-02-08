@@ -1,0 +1,17 @@
+Name,Floors,Year ( s ) as tallest,Height m,City
+Union Building,6,1916-1922,45.75,Shanghai
+Nanfang Building,12,1922-1927,50,Guangzhou
+Customs House,8,1927-1929,79.2,Shanghai
+Peace Hotel,13,1929-1934,77,Shanghai
+Broadway Mansions,19,1934-1934,78,Shanghai
+Park Hotel,24,1934-1968,84,Shanghai
+Guangzhou Hotel,27,1968-1976,86.51,Guangzhou
+Baiyun Hotel,34,1976-1985,93.5,Guangzhou
+Guomao Building,50,1985-1990,160,Shenzhen
+Jing Guang Center,52,1990-1996,208,Beijing
+King Tower,38,1996-1996,212,Shanghai
+Shun Hing Square,69,1996-1997,384,Shenzhen
+CITIC Plaza,80,1997-1998,390,Guangzhou
+Jinmao Tower,88,1998-2008,421,Shanghai
+Shanghai World Financial Center,101,2008-2015,492,Shanghai
+Shanghai Tower,128,2015-present,632,Shanghai

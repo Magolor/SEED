@@ -1,0 +1,12 @@
+Route,Length ( mi ),Length ( km ),From,Via,To
+CR 171,2.71,4.36,Wurtsboro village line,Mamakating Road in Mamakating,Bloomingburg village line
+CR 172,5.27,8.48,NY 17 exit 110 in Thompson,Wurtsboro Mountain Road,Wurtsboro village line in Mamakating
+CR 173,3.43,5.52,Monticello village line,East Broadway and Bridgeville Road in Thompson,NY 17 exit 108
+CR 173A,0.27,0.43,CR 173,Cimarron Road in Thompson,NY 17 exit 106
+CR 174,6.08,9.78,NY 17B at NY 17 exit 104,Old Route 17 in Thompson,CR 175 at Liberty town line
+CR 174A,0.08,0.13,NY 17 exit 104 westbound off-ramp,Ramp connection in Thompson,CR 174
+CR 175,3.14,5.05,CR 174 at Thompson town line,Harris Road in Liberty,Liberty village line
+CR 176,3.26,5.25,Liberty village line,Parksville Road in Liberty,NY 17 exit 98
+CR 178,3.60,5.79,NY 17 exit 97,Old Route 17 in Rockland,CR 179 0.45 miles ( 0.72 km ) south of Covered Bridge Road
+CR 179,5.93,9.54,CR 178 0.45 miles ( 0.72 km ) south of Covered Bridge Road,Old Route 17 in Rockland,CR 91 / CR 179A
+CR 179A,1.40,2.25,NY 206 / CR 91 / CR 179,Old Route 17 in Rockland,Delaware County line ( becomes CR 17 )

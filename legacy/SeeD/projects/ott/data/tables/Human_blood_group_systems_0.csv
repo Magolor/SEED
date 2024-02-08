@@ -1,0 +1,21 @@
+ISBT No,System name,System symbol,"Epitope or carrier , notes",Chromosome
+001,ABO,ABO,"Carbohydrate ( N-Acetylgalactosamine , galactose ) . A , B and H antigens mainly elicit IgM antibody reactions , although anti-H is very rare , see the Hh antigen system ( Bombay phenotype , ISBT # 18 )",9q34.2
+002,MNS,MNS,"GPA / GPB ( glycophorins A and B ) . Main antigens M , N , S , s",4q31.21
+003,P,P,"Glycolipid . Three antigens : P 1 , P , and P",22q13.2
+004,Rh,RH,"Protein . C , c , D , E , e antigens ( there is no d antigen ; lowercase d indicates the absence of D )",1p36.11
+005,Lutheran,LU,Protein ( member of the immunoglobulin superfamily ) . Set of 21 antigens,19q13.32
+006,Kell,KEL,"Glycoprotein . K 1 can cause hemolytic disease of the newborn ( anti-Kell ) , which can be severe",7q34
+007,Lewis,LE,Carbohydrate ( fucose residue ) . Main antigens Le and Le - associated with tissue ABH antigen secretion,19p13.3
+008,Duffy,FY,Protein ( chemokine receptor ) . Main antigens Fy and Fy . Individuals lacking Duffy antigens altogether are immune to malaria caused by Plasmodium vivax and Plasmodium knowlesi,1q23.2
+009,Kidd,JK,Protein ( urea transporter ) . Main antigens Jk and Jk,18q12.3
+010,Diego,DI,"Glycoprotein ( band 3 , AE 1 , or anion exchange ) . Positive blood is found only among East Asians and Native Americans",17q21.31
+011,Yt,YT,"Protein ( AChE , acetylcholinesterase )",7q22.1
+012,XG,XG,Glycoprotein,Xp22.33
+013,Scianna,SC,Glycoprotein,1p34.2
+014,Dombrock,DO,"Glycoprotein ( fixed to cell membrane by GPI , or glycosyl-phosphatidyl-inositol )",12p12.3
+015,Colton,CO,Aquaporin 1 . Main antigens Co ( a ) and Co ( b ),7p14.3
+016,Landsteiner-Wiener,LW,Protein ( member of the immunoglobulin superfamily ),19p13.2
+017,Chido,CH,C4A C4B ( complement fractions ),6p21.3
+018,Hh,H,Carbohydrate ( fucose residue ),19q13.33
+019,XK,XK,Glycoprotein,Xp21.1
+020,Gerbich,GE,GPC / GPD ( Glycophorins C and D ),2q14.3

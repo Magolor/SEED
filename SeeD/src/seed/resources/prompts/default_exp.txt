@@ -1,0 +1,6 @@
+Example #<<idx>>:
+	Inputs:
+<<indent(inputs_desc,2)>>
+	Outputs:
+<<indent(expected_desc,2)>>
+<<indent('Explanation: '+explanation,1)+'\n' if explanation else ''>>

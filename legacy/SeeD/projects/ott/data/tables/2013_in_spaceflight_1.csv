@@ -1,0 +1,19 @@
+Family,Country,Launches,Successes,Failures,Partial failures
+Angara,Russia,1,1,0,0
+Antares,United States,2,2,0,0
+Ariane,Europe,4,4,0,0
+Atlas,United States,8,8,0,0
+Delta,United States,3,3,0,0
+Epsilon,Japan,1,1,0,0
+Falcon,United States,3,3,0,0
+H-II,Japan,2,2,0,0
+Kuaizhou,People 's Republic of China,1,1,0,0
+Long March,People 's Republic of China,14,13,1,0
+Minotaur,United States,2,2,0,0
+Pegasus,United States,1,1,0,0
+PSLV,India,3,3,0,0
+R-7,Russia,16,16,0,0
+R-36,Ukraine,2,2,0,0
+Universal Rocket,Russia,15,13,1,1
+Vega,Europe,1,1,0,0
+Zenit,Ukraine / Russia,2,1,1,0

@@ -1,0 +1,21 @@
+Tool name,Description language,License
+A-A-P,recipe,GNU GPL
+Ant,XML,Apache License 2.0
+AnthillPro,"Wraps Make , Ant , Maven , MsBuild , Nant , etc . for controlled build , deploy , test processes",Discontinued
+Bamboo,continuous integration,Trialware
+Bazel,"BUILD/Starlark , a Python-like DSL",Apache License 2.0
+BuildAMation,"C # for build scripts , XML for high level dependencies",New BSD License
+Buildr,Ruby,Apache License 2.0
+Boot,Clojure,Eclipse Public License
+Capistrano,XML,MIT License
+CMake,uses CMakeLists.txt file,New BSD License
+Cake,"C # , .NET , .NET core . Uses C # written cake file",MIT License
+Collective Knowledge Framework,Python scripts with JSON API and JSON meta-description,New BSD License
+Continuum,?,Apache License 2.0
+CruiseControl,XML,BSD -style license
+FinalBuilder,"graphical IDE with support for Ant/NAnt , MSBuild , JScript , VBScript , IronPython , PowerShell",Trialware
+Gradle,Groovy-based DSL,Apache License 2.0
+Jenkins,continuous integration,MIT License
+Homebrew,Ruby,Simplified BSD License
+Leiningen,Clojure,Eclipse Public License
+make,uses Makefile,Same as the bundling OS

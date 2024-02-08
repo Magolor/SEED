@@ -1,0 +1,3 @@
+<<task_profile>>
+Now consider the following instance. Please respond with the answer only. Please do not output any other responses or any explanations.
+<<instance_desc>>

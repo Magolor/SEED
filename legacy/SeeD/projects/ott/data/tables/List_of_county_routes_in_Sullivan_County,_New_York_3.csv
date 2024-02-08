@@ -1,0 +1,10 @@
+Route,Length ( mi ),Length ( km ),From,Via,To
+CR 41,2.92,4.70,Pennsylvania state line,High Road in Lumberland,CR 32 / CR 42
+CR 42,3.31,5.33,CR 32 / CR 41,Forestburgh Road in Lumberland,CR 43 at Leers Road
+CR 43,5.05,8.13,CR 42 at Leers Road in Lumberland,Forestburgh Road,NY 42 / CR 48 in Forestburgh
+CR 44,3.48,5.60,CR 43,Plank and Sackett Lake roads in Forestburgh,CR 45 at Thompson town line
+CR 45,3.97,6.39,CR 44 at Forestburgh town line,Sackett Lake Road in Thompson,NY 42
+CR 45A,0.10,0.16,CR 45,Sackett Lake Road in Thompson,NY 42
+CR 47,2.03,3.27,CR 32,Highland Lake Road in Highland,Lakeview Drive
+CR 48,3.71,5.97,NY 42 / CR 43,Hartwood Road in Forestburgh,CR 49 / CR 101
+CR 49,3.45,5.55,Orange County line ( becomes CR 7 ),Oakland Valley Road in Forestburgh,CR 48 / CR 101

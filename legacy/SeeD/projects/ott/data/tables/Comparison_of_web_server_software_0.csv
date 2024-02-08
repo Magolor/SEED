@@ -1,0 +1,21 @@
+Server,Developed by,Software license,Last stable version,Latest release date
+AOLserver,NaviSoft,Mozilla,4.5.2,2012-09-19
+Apache HTTP Server,Apache Software Foundation,Apache,2.4.41,2019-08-14
+Apache Tomcat,Apache Software Foundation,Apache,9.0.21,2019-06-07
+Boa,Jon Nelson and Larry Doolittle,GNU GPL,0.94.13,2002-07-30 ( discontinued )
+Caddy,Matt Holt,Apache,1.0.0,2019-04-24
+Caudium,The Caudium Group,GNU GPL,1.4.18,2012-02-24
+Cherokee HTTP Server,Álvaro López Ortega,GNU GPL,1.2.103,2013-04-21
+GlassFish,Oracle Corporation ( initial code from Sun Microsystems ),Common Development and Distribution License & GNU General Public License,5.1,2019-01-28
+Hiawatha,Hugo Leisink,GNU GPLv2,10.9,2019-02-18
+HFS,Rejetto,GNU GPL,2.3i,2016-06-14
+IBM HTTP Server,IBM,Non-free proprietary,9.0.0,2016-03-11
+Internet Information Services,Microsoft,Non-free proprietary,10.0.17763.1,2018-10-02
+Jetty,Eclipse Foundation,Apache,9.4.18,2019-04-29
+Jexus,Bing Liu,Non-free proprietary,5.5.2,2014-04-27
+lighttpd,Jan Kneschke ( Incremental ),BSD variant,1.4.55,2020-01-31
+LiteSpeed Web Server,LiteSpeed Technologies,Non-free proprietary,5.3.7,2019-03-15
+Mongoose,Cesanta Software,GNU GPLv2 / proprietary license,6.14,2019-03-04
+Monkey HTTP Server,Monkey Software,Apache,1.6.9,2016-05-04
+NaviServer,Various,Mozilla 1.1,4.99.18,2019-02-24
+NCSA HTTPd,Robert McCool,Non-free proprietary,1.5.2a,1996-10-08

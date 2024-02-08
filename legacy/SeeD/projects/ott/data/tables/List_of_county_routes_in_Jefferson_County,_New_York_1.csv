@@ -1,0 +1,21 @@
+Route,Length ( mi ),Length ( km ),From,Via,To
+CR 111,3.23,5.20,NY 37,Schnauber Corners Road in Alexandria,St. Lawrence County line ( becomes CR 6 )
+CR 120,1.22,1.96,NY 3,Woodville Road in Ellisburg,NY 193
+CR 121,4.28,6.89,NY 3 in Ellisburg,Farm To Market Road,NY 193 in Ellisburg village
+CR 122,1.28,2.06,Oswego County line ( becomes CR 22 ),Lacona Road in Ellisburg,US 11
+CR 123,3.81,6.13,NY 3,Harbor Road in Henderson,NY 3
+CR 125,6.76,10.88,NY 12E in Chaumont,Stone Street and Point Salubrious and Guffins Bay roads,NY 12E in Chaumont
+CR 128,,,NY 180 in Brownville,Fox Corners Road,NY 12 in Clayton
+CR 129,0.37,0.60,NY 342,Le Ray Street Road in Le Ray,Black River village line
+CR 136,1.82,2.93,NY 37,Nobles Corner Road in Theresa,CR 46
+CR 138,1.17,1.88,US 11,Sanford Corners Road in Le Ray,NY 342
+CR 143,3.34,5.38,NY 3 in Rutland,Applegate Road,CR 47 in Champion
+CR 144,1.88,3.03,CR 49,Staplin Road in Rutland,CR 143
+CR 145,1.41,2.27,CR 75 in Hounsfield,North Harbor Road,CR 66 in Adams
+CR 152,5.97,9.61,NY 178,Scotts Corners and Stony Creek roads in Henderson,NY 178
+CR 155,7.75,12.47,CR 69 in Rodman,Toad Hollow and Dry Hill roads,CR 165 in Watertown
+CR 156,6.44,10.36,Lewis County line in Rodman ( becomes CR 21 ),Blackstone Hill and Plank roads,NY 12 in Watertown
+CR 159,1.10,1.77,NY 12,Gotham Street Road in Watertown,Watertown city line
+CR 160,3.80,6.12,NY 126 in Watertown,Middle Road,CR 161 in Rutland
+CR 161,2.74,4.41,CR 69,Tylerville and Eames Corners roads in Rutland,CR 160
+CR 162,2.21,3.56,NY 12,Community Drive So in Rutland,NY 126

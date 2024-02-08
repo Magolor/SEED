@@ -1,0 +1,11 @@
+Frequency,UHF,kW,Operator
+474.000 MHz,21,2,BBC ( Mux 1 )
+498.166 MHz,24+,2,SDN ( Mux A )
+522.166 MHz,27+,2,BBC ( Mux B )
+554.000 MHz,31,2,Digital 3 & 4 ( Mux 2 )
+618.166 MHz,39+†,2,BBC ( Mux 1 )
+642.000 MHz,42†,2,SDN ( Mux A )
+666.000 MHz,45†,2,BBC ( Mux B )
+698.000 MHz,49†,2,Digital 3 & 4 ( Mux 2 )
+730.000 MHz,53,1,Arqiva ( Mux C )
+762.000 MHz,57,1,Arqiva ( Mux D )

@@ -1,0 +1,9 @@
+Route,Length ( mi ),Length ( km ),From,Via,To
+CR 101,2.69,4.33,CR 48 / CR 49,Cold Spring Road in Forestburgh,CR 102 / CR 108
+CR 102,5.66,9.11,CR 101 / CR 108 in Forestburgh,Cold Spring Road,Monticello village line in Thompson
+CR 103,4.16,6.69,NY 42,Anawana Lake Road in Thompson,CR 104 / CR 107
+CR 104,3.62,5.83,CR 103 / CR 107 in Fallsburg,Main Street and Loch Sheldrake Road,NY 52 in Thompson
+CR 105,5.49,8.84,NY 52 in Neversink,Divine Corners Road,NY 55 in Neversink
+CR 107,4.80,7.72,Monticello village line,Old Liberty Road in Thompson,CR 103 / CR 104
+CR 108,3.73,6.00,NY 42,Saint Josephs Road in Forestburgh,CR 101 / CR 102
+CR 109,1.42,2.29,NY 42 in Thompson,Kiamesha Lake Road,CR 161 in Fallsburg

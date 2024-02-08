@@ -1,0 +1,21 @@
+Browser,Creator,FOSS,Current layout engine,Software license,Notes
+Amazon Silk,Amazon.com,Some,Blink,proprietary and LGPL,Uses split architecture whereby all processing is performed on Amazon 's servers
+Android browser,Google,Yes,WebKit,BSD and LGPL,Browser included with Android version 1.5 to version 4.1
+BlackBerry Browser,BlackBerry Ltd,Some,"Mango ( ver 4.5 , 4.6 , 4.7 , 5.0 ) Webkit ( ver 6.0+ )",proprietary and LGPL,-
+Blazer,Palm,No,NetFront,proprietary,installed on all newer Palm Treos and PDAs
+Chrome,Google,Some,"WebKit , Blink ( versions 28+ )","Freeware under Google Chrome Terms of Service , but uses components from the Chromium ( web browser ) project",Installed as default on Google devices shipping with Android versions 4.1 ( Jelly Bean ) or higher
+Dolphin Browser,MoboTap,No,WebKit,proprietary,installed on all Bada
+Firefox for Mobile,Mozilla,Yes,"Gecko , WebKit ( iOS version only )",MPL,"Currently released for Android and iOS , but default browser for Firefox OS devices ( now discontinued )"
+Internet Explorer Mobile,Microsoft,No,Trident,proprietary,on Windows Phone and Windows Mobile only
+Iris Browser,Torch Mobile,Some,WebKit,proprietary and LGPL,Acquired by Research in Motion - No longer supports Windows Mobile or Linux
+Kindle web browser,Amazon.com,No,NetFront,proprietary,Labeled experimental
+Microsoft Edge,Microsoft,No,EdgeHTML,proprietary,on Windows 10 Mobile
+Myriad Browser,Myriad Group,Some,Magellan ( ver . 6.x ) Fugu ( ver 7.x ) WebKit ( ver 9 ),proprietary and LGPL,Acquired from Openwave in 2008
+NetFront,"ACCESS Co. , Ltd",Yes,NetFront,proprietary,-
+Nokia Series 40 Browser,Nokia,Some,WebKit,proprietary and LGPL,-
+Opera Mini,Opera Software,No,Presto,proprietary,Capable of pre-processing web pages and formatting for small screens
+Opera Mobile,Opera Software,No,"Presto , Blink ( versions 15+ )",proprietary,Capable of reading HTML and can reformat for small screens
+PlayStation Portable web browser,Sony,Yes,NetFront,proprietary,-
+Polaris Browser,Infraware Inc,Some,Lumi ( Ver . 6.x ) WebKit ( Ver . 7.x ),proprietary and LGPL,"Nokia , Samsung , Kyocera and other phones sold in the US , China , South Korea , etc"
+S60 web browser,Nokia,Yes,WebKit,LGPL,on S60 phones ( predominantly Nokia )
+Safari,Apple Inc,Some,WebKit ( WebCore ),proprietary and LGPL,"on iOS ( iPhone , iPod Touch and iPad )"

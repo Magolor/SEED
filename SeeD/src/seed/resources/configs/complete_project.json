@@ -1,0 +1,55 @@
+{
+    "name": "",
+    "task_desc": "",
+    "inputs": [
+    ],
+    "outputs": [
+    ],
+    "evaluation_metric": "",
+    "evaluation_path": "",
+    "tools": [
+    ],
+    
+    "examples_manual": [],
+    "examples_path": "",
+    "examples_mode": "sample",
+    "examples_count": 10,
+    
+    "p_fallback": 0.05,
+
+    "activate_cache": false,
+    "cache_frozen_ckpt": "t5-small",
+    "cache_confidence_ratio": 0.8,
+    "cache_max_size": 512,
+    "cache_sync": 64,
+    "cache_sync_off": false,
+
+    "activate_model": false,
+    "model_type": "AutoModelForSequenceClassification",
+    "model_initial_ckpt": "t5-small",
+    "model_confidence_ratio": 0.8,
+    "model_confidence_default": 1.0,
+    "model_max_size": 512,
+    "model_sync_small": 64,
+    "model_sync_large": 1024,
+    "model_sync_off": false,
+    "model_sync_confi": 256,
+    "model_args": {},
+
+    "activate_codeg": false,
+    "codeg_examples_manual": [],
+    "codeg_examples_path": "",
+    "codeg_examples_mode": "balanced",
+    "codeg_examples_count": 4,
+    "codev_examples_manual": [],
+    "codev_examples_path": "",
+    "codev_examples_mode": "sample",
+    "codev_examples_count": 20,
+    "codeg_iterations": 5,
+    "codeg_branches_count": 4,
+    "codeg_branching": 3,
+
+    "activate_tools": false,
+    "activate_llmqa": true,
+    "debug": -1
+}

@@ -1,0 +1,11 @@
+Frequency,UHF,kW,Operator,System
+727.25 MHz,53,100,Channel 4,PAL System I
+753.833 MHz,56-,2,Arqiva ( Mux C ),DVB-T
+759.25 MHz,57,100,BBC One Scotland,PAL System I
+777.833 MHz,59-,4,SDN ( Mux A ),DVB-T
+783.25 MHz,60,100,STV,PAL System I
+801.833 MHz,62-,4,BBC ( Mux B ),DVB-T
+807.25 MHz,63,100,BBC Two Scotland,PAL System I
+825.833 MHz,65-,2,Arqiva ( Mux D ),DVB-T
+834.166 MHz,66+,4,Digital 3 & 4 ( Mux 2 ),DVB-T
+850.000 MHz,68,4,BBC ( Mux 1 ),DVB-T

@@ -1,0 +1,13 @@
+Station Name,Format,Details,Owner,Service ID,Bitrate
+7HOFM,Adult contemporary,Simulcast of 101.7 FM,Grant Broadcasters,0x1380,48kbit/s
+Hit100.9,Classic hits / Hot adult contemporary,Simulcast of 100.9 FM,Southern Cross Austereo,0x1391,48kbit/s
+Triple M Hobart,Adult contemporary,Simulcast of 107.3 FM,Southern Cross Austereo,0x1390,48kbit/s
+Hit Easy,Easy listening,Digital only,Southern Cross Austereo,0x1397,40kbit/s
+Hit Oldskool,Classic hits / Hot adult contemporary,Digital only,Southern Cross Austereo,0x1396,40kbit/s
+MMM Classic Rock,Rock,Digital only,Southern Cross Austereo,0x1393,40kbit/s
+MMM Country,Country,Digital only,Southern Cross Austereo,0x1398,40kbit/s
+7HO Classic Hits,Adult contemporary,Digital Only,Grant Broadcasters,0x1382,40kbit/s
+KIX Country,Country,Digital only,Grant Broadcasters,0x1381,40kbit/s
+7RPH Print Radio,Radio reading service,Simulcast of 864 AM,Community,0x13B0,64kbit/s
+Hobart FM,Community,Simulcast of 96.1 and 92.1 FM,Community,0x13B3,64kbit/s
+Ultra 106.5,Christian,Simulcast of 106.5 FM,Community,0x13B1,64kbit/s

@@ -1,0 +1,9 @@
+Route,Length ( mi ),Length ( km ),From,Via,To
+CR 51,2.13,3.43,NY 52,Hilldale Road in Fallsburg,CR 52 / CR 104
+CR 52,3.49,5.62,CR 51 / CR 104,Brickman Road in Fallsburg,NY 42 / CR 53
+CR 53,2.03,3.27,Roosevelt Avenue,Old Falls Road in Fallsburg,NY 42 / CR 52
+CR 54,1.65,2.66,0.13 miles ( 0.21 km ) west of Woodridge east village line,Mountaindale Road,CR 55 / CR 56 in Fallsburg
+CR 55,6.59,10.61,CR 54 / CR 56 in Fallsburg,Main Street and Mountaindale Road,Ulster County line in Mamakating ( becomes CH 80 )
+CR 56,7.52,12.10,CR 172 in Mamakating,Masten Lake Road,CR 54 / CR 55 in Fallsburg
+CR 58,5.67,9.12,Rock Hill Drive at NY 17 exit 109 in Thompson,Glen Wild Road,Woodridge village line in Fallsburg
+CR 59,1.10,1.77,NY 17B,Kaufman Road in Thompson,NY 17 eastbound on-ramp

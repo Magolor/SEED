@@ -1,0 +1,14 @@
+Drug,Class,Indications
+probenecid,uricosuric,gout hyperuricemia
+furosemide,loop diuretic,heart failure edema
+ritonavir,protease inhibitor,antiretroviral
+saquinavir,protease inhibitor,antiretroviral
+lamivudine,Nucleoside analog,antiviral
+abacavir,Nucleoside analog,antiretroviral
+emtricitabine,Nucleoside analog,antiviral
+efavirenz,NNRTI,antiretroviral
+delavirdine,NNRTI,antiretroviral
+nevirapine,NNRTI,antiretroviral
+cidofovir,nucleoside phosphonate,antiviral
+adefovir,nucleoside phosphonate,antiviral
+tenofovir,nucleoside phosphonate,antiviral

@@ -1,0 +1,15 @@
+SaaS ( Software as a Service ),Initial release date,License ( s ),Written in,As a service,Local installations
+fluid Operations eCloudManager,2009-03-01,Proprietary,"Java , Groovy",No,Yes
+AppScale,2009-03-07,Apache License [ 1 ],"Python , Ruby , Go",Yes,Yes
+Cloud Foundry,2011-04-12,Apache License,"Ruby , C , Java , Go",Yes,Yes
+Cloud.com / CloudStack,2010-05-04,Apache license,"Java , C",Yes,Yes
+Eucalyptus,2008-05-29,"Proprietary , GPL v3","Java , C",Yes,Yes
+Flexiant Limited,2007-01-15,Proprietary software,"Java , C",Yes,Yes
+Nimbus,2009-01-09,Apache License,"Java , Python",Yes,Yes
+OpenNebula,2008-03- ? ?,Apache License,"C++ , C , Ruby , Java , Shell script , lex , yacc",Yes,Yes
+OpenQRM,2008-03- ? ?,GPL License,"C++ , PHP , Shell script",Yes,Yes
+OpenShift,2011-05-04,Apache License,Go,Yes,Yes
+OpenStack,2010-10-21,Apache License,Python,Yes,Yes
+OnApp,2010-07-01,Proprietary,"Java , Ruby , C++",Yes,Yes
+oVirt,2012-08-09,Apache License,"Java , Python",?,Yes
+Jelastic,2011-01-27,"GPL License , Apache License , BSD License","Java , JavaScript , Perl , Shell script",Yes,Yes

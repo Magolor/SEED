@@ -1,0 +1,21 @@
+Name,Stores,Type of store,Parent
+SPAR,120,convenience,Dagrofa
+Min købmand ( SPAR ),200,convenience,Dagrofa
+Meny,190,full service,Dagrofa
+7-Eleven,177,convenience,Reitan Group
+Netto,500,discount,Salling Group
+DøgnNetto,45,convenience,Dansk Supermarked A/S
+Kvickly,81,full service,Coop Danmark
+Aldi,244,discount,Aldi
+Bilka,18,hypermarket,Dansk Supermarked A/S
+Dagli'Brugsen,375 ( including LokalBrugsen ),,Coop Danmark
+SuperBrugsen,230,,Coop Danmark
+Fakta,420,discount,Coop Danmark
+FaktaQ,,convenience,Coop Danmark
+føtex,88,department store,Dansk Supermarked A/S
+Irma,71,"full-service , organic food",Coop Danmark
+Irma City,,convenience,Coop Danmark
+Kiwi,0,discount,Dagrofa
+Lidl,98,discount,Lidl
+LokalBrugsen,375 ( including Dagli'Brugsen ),convenience,Coop Danmark
+Let-Køb,100,,Dagrofa

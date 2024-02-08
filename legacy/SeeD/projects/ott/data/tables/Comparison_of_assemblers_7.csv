@@ -1,0 +1,21 @@
+Assembler,License,Instruction set,Host platform
+Assembly Language for Multics ( ALM ),MIT,GE-645 Honeywell 6180,GE-645 Honeywell 6180
+The Macroassembler AS,Free,"29xxx , AVR , 65816 , ACE , F2MC-8L , F2MC-16L , HMCS400 , 6301 , 6309 , H8/300 ( H ) , H8/500 , SH7000 / SH7600 / SH7700 , HuC6280 , PPC403GA , 4004/4040 , 8008 , MCS-48 , MCS-41 , MCS-51 , MCS-251 , MCS-96/196/296 , 8080/8085 , 8086 / 80186 , i960 , CDP1802 ( A ) /1804 ( A ) /1805 ( A ) , LatticeMico8 , PIC 16C5x , PIC 16C8x , PIC 17C42 , MELPS-740 , MELPS-7700 , MELPS-4500 , M16 , M16C , 68000 ( up to 68040 ) , ColdFire , DSP56000 , DSP56300 , PowerPC 601/505 , M-Core , 6800 , 68HC11 ( K4 ) , 6805 , 68HC ( S ) 08 , 6809 , 68HC12 incl . XGATE , 68HC16 , 68RS08 , SC/MP , INS807x , COP4 , COP8 , SC14xxx , µpD7720/7725 , µpD77230 , µpD78C1x , 75K0 , 78K0 , 78K2 , 78K3 , 78K4 , V30/35 , OLMS-40 , OLMS-50 , XA , 6502 , ( W ) 65 ( S ) C02 , 65C19 , 80C382 , 80C166/167 , 2650 , 8X30x , ST6 , ST7 , ST9 , 6804 , SYM53C8xx , TMS3201x , TMS320C2x , TMS320C20x , TMS320C3x , TMS320C4x , TMS320C5x , TMS320C54x , TMS320C6x , TMS7000 , TMS9900 , TMS370xxx , MSP430 ( X ) , TLCS-900 , TLCS-90 , TLCS-870 , TLCS-47 , TLCS-9000 , TC9331 , KCPSM/KCPSM3 ( 'PicoBlaze ' ) , Z80 , Z180 , Z380 , Z8 , eZ8 , MIL STD 1750","Win32 , DOS/DPMI , DOS ( no longer maintained ) , OS/2 ( no longer maintained ) , Linux"
+Babbage,Proprietary,GEC 4000 series,GEC 4000 series
+COMPASS,Proprietary,CDC mainframe,CDC mainframe
+MACRO-10,Free,PDP-10,PDP-10
+MACRO-11,Free,PDP-11,PDP-11
+vasm,Free,"Zilog Z80 , Motorola 6800 family",various
+GPASM,GNU GPL,PIC microcontroller,many
+MIPS,Free,MIPS,MIPS
+Symbolic Optimal Assembly Program ( SOAP ),Proprietary,IBM 650,IBM 650
+Technical Assembly System ( TASS ),Free,IBM 650,IBM 650
+Autocoder,Free,"IBM 705 , 14xx , 1410 , 7010 , 7070 , 7072 , 7074 , 7080",various
+Fortran Assembly Program ( FAP ),Free,"IBM 709 , 704x , 709x","Fortran Monitor System , IBSYS"
+GCOS Macro Assembly Program ( GMAP ),Free,"GE-600 series , Honeywell 6000 series",GCOS
+Macro Assembly Program ( MAP ),Free,"IBM 709 , 704x , 709x","IBSYS /IBJOB on 709 , 704x , 709x"
+Meta-Symbol,Free,SDS Sigma series,"BTM , UTS , CP-V"
+Symbolic Assembly Program ( SAP ),Free,IBM 704,IBM 704
+Symbolic Programming System ( SPS ),Free,"IBM 14xx , 1620 , 1710","IBM 1401 , 1440 , 1460 , 1620 , 1710"
+"ASMB , ASBL , NSBL - Numeric op codes , used for 1900 Operating System Executive",Proprietary,ICL 1900,ICL 1900
+"GINerator mnemonic opcodes , used for GEORGE ( operating system )",Proprietary,ICL 1900,ICL 1900

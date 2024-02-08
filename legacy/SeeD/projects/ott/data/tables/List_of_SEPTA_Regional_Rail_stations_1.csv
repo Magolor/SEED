@@ -1,0 +1,21 @@
+Station,Line,Rail connections,Zone,Location
+30th Street Station,Airport Line Chestnut Hill East Line Chestnut Hill West Line Cynwyd Line Fox Chase Line Lansdale/​Doylestown Line Manayunk/​Norristown Line Media/Elwyn Line Paoli/​Thorndale Line Trenton Line Warminster Line West Trenton Line Wilmington/​Newark Line,Market-Frankford Line Route 10 Trolley Route 11 Trolley Route 13 Trolley Route 34 Trolley Route 36 Trolley Amtrak : Keystone Corridor Northeast Corridor New Jersey Transit : Atlantic City Line,CCP,Philadelphia ( University City )
+49th Street,Media/Elwyn Line,Route 13 Trolley,1,Philadelphia ( Kingessing )
+9th Street,Lansdale/​Doylestown Line,N/A,4,Lansdale
+Airport Terminal A,Airport Line,N/A,4,Philadelphia ( Airport )
+Airport Terminal B,Airport Line,N/A,4,Philadelphia ( Airport )
+Airport Terminals C & D,Airport Line,N/A,4,Philadelphia ( Airport )
+Airport Terminals E & F,Airport Line,N/A,4,Philadelphia ( Airport )
+Allegheny,Manayunk/​Norristown Line,N/A,1,Philadelphia ( Swampoodle )
+Allen Lane,Chestnut Hill West Line,N/A,2,Philadelphia ( West Mount Airy )
+Ambler,Lansdale/​Doylestown Line,N/A,3,Ambler
+Angora,Media/Elwyn Line,Route 34 Trolley,1,Philadelphia ( Angora )
+Ardmore,Paoli/​Thorndale Line,Amtrak : Keystone Corridor,2,Ardmore
+Ardsley,Warminster Line,N/A,3,Ardsley
+Bala,Cynwyd Line,N/A,2,Bala Cynwyd
+Berwyn,Paoli/​Thorndale Line,N/A,3,Berwyn
+Bethayres,West Trenton Line,N/A,3,Bethayres
+Bridesburg,Trenton Line,N/A,2,Philadelphia ( Bridesburg )
+Bristol,Trenton Line,N/A,4,Bristol
+Bryn Mawr,Paoli/​Thorndale Line,N/A,3,Bryn Mawr
+Carpenter,Chestnut Hill West Line,N/A,2,Philadelphia ( West Mount Airy )

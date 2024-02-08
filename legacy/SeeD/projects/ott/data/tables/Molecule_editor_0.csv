@@ -1,0 +1,21 @@
+Program,Developer ( s ),License,Platforms,Info
+Accelrys Draw,Accelrys,Proprietary,Windows,"freeware version available ; includes name2structure and structure2name , InChI naming , and canonical SMILES"
+ACD/ChemSketch,ACD/Labs,Proprietary,Windows,"A chemically intelligent drawing interface that allows drawing almost any chemical structure including organics , organometallics , polymers , and Markush structures . freeware version available"
+Amira ( software ),Visage Imaging Zuse Institute Berlin,Proprietary,"Windows , macOS , Linux",14-day trial version available
+Ascalaph Designer,Agile Molecule,GNU GPL,"Linux , Windows",freeware
+ArgusLab,Mark Thompson ( author ),Proprietary,Windows,freeware
+Avogadro,Avogadro project team,GNU GPL,"Linux , macOS , Windows","3D molecule editor , visualizer"
+BALLView,BALL project team,GNU GPL - LGPL,"Linux , macOS , Windows","viewer , editor , simulation tool"
+Bioclipse,Bioclipse Developers,EPL,cross-platform,"Java , Eclipse Rich Client Platform ( RCP ) based"
+BKChem,Beda Kosata,GNU GPL,cross-platform,2D molecule editor written in Python
+ChemDoodle,iChemLabs,Proprietary,"Linux , macOS , Windows","Complete chemical publishing system for drawing chemical structures , reactions , spectra and more . Free trial available"
+ChemDraw,PerkinElmer,Proprietary,"macOS , Windows",Edit chemical structures and reactions
+Deneb,AtelGraphics,Proprietary,"Linux , Windows","Trial version available ; easy to use graphical user interface desktop for packages SIESTA , VASP , QE , etc"
+Elemental ( software ),Dotmatics,Proprietary,"Windows , iOS","freeware for PCs , iPhone , iPad"
+ICEdit,InfoChem,Proprietary,Windows,Edit chemical structures and reactions
+Chemtool,,GNU GPL,"Linux , Unix","2D editor for chemical structural formulas , written in C using GTK"
+ChemWindow,Bio-Rad,Proprietary,,available as part of the KnowItAll software environment ; Freeware for academic research and teaching
+Gabedit,Abdulrahman Allouche,BSD,"Linux , macOS , Windows","3D molecule editor , visualizer"
+ICM-Chemist,MolSoft,Proprietary,"Windows , macOS , Linux",Easy to use graphical user interface desktop chemistry editor
+JChemPaint,,GNU LGPL,cross-platform,2D structural formula editor written in Java
+HyperChem,"Hypercube , Inc",Proprietary,Windows,"3D molecule editor , visualizer"

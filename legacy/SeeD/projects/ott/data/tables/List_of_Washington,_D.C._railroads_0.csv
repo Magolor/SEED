@@ -1,0 +1,20 @@
+Name,System,From,To,Successor
+Alexandria and Fredericksburg Railway,RF & P,1872,1890,Baltimore and Potomac Railroad
+Alexandria and Washington Railroad,RF & P,1854,1872,Alexandria and Fredericksburg Railway
+Baltimore and Ohio Railroad,B & O,1831,1987,Chesapeake and Ohio Railway
+Baltimore and Potomac Railroad,PRR,1867,1902,"Philadelphia , Baltimore and Washington Railroad"
+Chesapeake Beach Railway,,1896,1935,East Washington Railway
+Chesapeake and Ohio Railway,C & O,1891,1987,CSX Transportation
+Consolidated Rail Corporation,,1976,1999,CSX Transportation / Norfolk Southern Railway
+East Washington Railway,,1935,1976,N/A
+"Georgetown Barge , Dock , Elevator and Railway Company",B & O,1888,1972,Baltimore and Ohio Railroad
+"Orange , Alexandria and Manassas Railroad",SOU,1872,1872,Virginia and North Carolina Railroad
+Penn Central Transportation Company,,1968,1976,Consolidated Rail Corporation
+Pennsylvania Railroad,PRR,1918,1968,Penn Central Transportation Company
+"Philadelphia , Baltimore and Washington Railroad",PRR,1902,1976,Consolidated Rail Corporation
+"Philadelphia , Wilmington and Baltimore Railroad",PRR,1891,1902,"Philadelphia , Baltimore and Washington Railroad"
+Richmond and Danville Railroad,SOU,1886,1894,Southern Railway
+"Richmond , Fredericksburg and Potomac Railroad",RF & P,1920,1991,"Richmond , Fredericksburg and Potomac Railway"
+Southern Railway,SOU,1894,1990,Norfolk Southern Railway
+Southern Maryland Railroad,,1882,1886,Washington and Potomac Railroad
+Virginia Midland Railway,SOU,1880,1886,Richmond and Danville Railroad

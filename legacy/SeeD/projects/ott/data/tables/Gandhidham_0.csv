@@ -1,0 +1,16 @@
+Train No,Train Name,Runs From Source,Destination,Departure Days,Arrival Days
+18501-18502,Visakhapatnam-Gandhidham Express,Gandhidham,Visakhapatnam,Friday,Sunday
+22973-22974,Gandhidham-Puri Express ( via Vizianagaram ),Gandhidham,Puri,Wednesday,Friday
+16335-16336,Nagercoil Express,Gandhidham,Nagercoil,Friday,Thursday
+16505-16506,Gimb Sbc Express,Gandhidham,Bangalore,Tuesday,Monday
+11091-11092,Ahimsa Express,Bhuj,Pune,Wednesday,Tuesday
+15667-15668,Kamakhya Express,Gandhidham,Kamakhya,Saturday,Saturday
+14312-14311 Via Ahmedabad & 14322-14321 Via Bhildi,Ala Hazrat Express,Bhuj,Bareilly,"Tuesday , Thursday & Sunday For 14312 . Monday , Wednesday , Friday & Saturday For 14322","Friday , Saturday , Monday For 14311.Tuesday , Wednesday , Thursday & Sunday For 14321"
+22829-22830,Bhuj - Shalimar Superfast Express,Bhuj,Shalimar,Tuesday,Monday
+22904-22903,Bandra Terminus Bhuj AC Superfast Express,Bhuj,Bandra,"Monday , Thursday , Saturday","Thursday , Saturday , Monday"
+12937-12938,Garbha Superfast Express,Gandhidham,Howrah,Saturday,Wednesday
+12960-12959,Bhuj Dadar Superfast Express,Bhuj,Dadar,"Monday , Thursday","Wednesday , Saturday"
+14802-14801,Gandhidham Jodhpur Express,Gandhidham,Jodhpur,"Monday , Wednesday , Saturday","Monday , Wednesday , Saturday"
+22955-22956,Kutch Express,Bhuj,"Bandra , Mumbai",Daily,Daily
+12993-12994,Puri-Gandhidham Express,Gandhidham,Puri,Monday,Wednesday
+19116-19115,Sayajinagari Express,Bhuj,Bandra,Daily,Daily

@@ -1,0 +1,21 @@
+Route,Start,End,Operator
+N1,Thamesmead,Tottenham Court Road station,London General
+N2,Crystal Palace,Marylebone station,Arriva London
+N3,Bromley North,Oxford Circus,Abellio London
+N5,Edgware,Trafalgar Square,Metroline
+N7,Northolt,Oxford Circus,Metroline
+N8,Hainault,Oxford Circus,Stagecoach London
+N9,Heathrow Terminal 5,Aldwych,London United
+N11,Ealing Broadway,Liverpool Street bus station,London General
+N15,Romford,Oxford Circus,Blue Triangle
+N16,Edgware,Victoria bus station,Metroline
+N18,Harrow Weald,Trafalgar Square,London United
+N19,Clapham Junction,Finsbury Park bus station,Arriva London
+N20,Barnet,Trafalgar Square,Metroline
+N21,Bexleyheath,Trafalgar Square,London Central
+N22,Fulwell,Oxford Circus,London General
+N25,Ilford,Oxford Circus,Tower Transit
+N26,Chingford,Trafalgar Square,HCT Group
+N27,Hammersmith,Chalk Farm,Abellio London
+N28,Camden Town,Wandsworth,Tower Transit
+N29,Enfield Town,Trafalgar Square,Arriva London

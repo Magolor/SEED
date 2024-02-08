@@ -1,0 +1,17 @@
+Company name,Engine,Engine type,Applications,Status
+Accion Systems Inc,"MAX-1 , TILE",electrospray ion,small satellite / CubeSat,Development
+Ad Astra Rocket Company,VASIMR,plasma propulsion,space tug/orbital transfer vehicle,Development
+ARCA,Executor,LOX / RP-1,"IAR 111 , Haas 2 , Haas 2b , Super Haas",Development
+Blue Origin,BE-3,LH2 / LOX,New Shepard,Operational
+Blue Origin,BE-4,LOX / CH 4,"Vulcan , New Glenn",Development
+CU Aerospace,PUC,microcavity discharge,small satellite / CubeSat,Development
+CU Aerospace,CHIPS,resistojet,small satellite / CubeSat,Development
+CU Aerospace,PPT-11,pulsed plasma,small satellite / CubeSat,Development
+Reaction Engines Ltd,SABRE,hybrid air-breathing /chemical,Skylon,Development
+SpaceDev,RocketMotorOne,hybrid,SpaceShipOne,Retired
+SpaceX,Kestrel,LOX / RP-1,Falcon 1 second stage,Retired
+SpaceX,Merlin,LOX / RP-1,"Falcon 1 , Falcon 9 , Falcon Heavy first stage/boosters",Operational
+SpaceX,Merlin Vacuum,LOX / RP-1,"Falcon 9 second stage , Falcon Heavy second stage",Operational
+SpaceX,Raptor,LOX / CH 4,SpaceX Mars transportation infrastructure,Testing
+TGV Rockets,RT30,LOX / JP-8,Michelle B,Development
+Virgin Galactic,RocketMotorTwo,hybrid,SpaceShipTwo,Development

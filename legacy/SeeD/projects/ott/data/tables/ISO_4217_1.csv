@@ -1,0 +1,13 @@
+Code,Num,E,Currency,Locations using this currency,Notes
+CNH,-,2,Chinese yuan,Hong Kong,Used for offshore trading
+GGP,-,2,Guernsey pound,Guernsey,
+IMP,-,2,Isle of Man pound,Isle of Man,Also known as the Manx pound
+JEP,-,2,Jersey pound,Jersey,
+KID,-,2,Kiribati dollar,Kiribati,
+NIS,-,2,Israeli new shekel,Israel,"NIS stands for N ew I sraeli S hekel : NIS conflicts with ISO 4217 , because NI stands for Nicaragua"
+NTD,-,2,New Taiwan dollar,Taiwan,
+PRB,-,2,Transnistrian ruble,Transnistria,"PRB conflicts with ISO 4217 , because PR stands for Puerto Rico"
+SLS,-,2,Somaliland shilling,Somaliland,"SLS conflicts with ISO 4217 , because SL stands for Sierra Leone"
+RMB,-,2,Renminbi ( Chinese ) yuan,Mainland China,"RMB is an abbreviation of its official name , R en M in B i"
+TVD,-,2,Tuvalu dollar,Tuvalu,
+ZWB,-,2,Zimbabwean bonds,Zimbabwe,Also known as the RTGS Dollar

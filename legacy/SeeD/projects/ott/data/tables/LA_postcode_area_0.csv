@@ -1,0 +1,21 @@
+Postcode district,Post town,Coverage,Local authority area
+LA1,LANCASTER,"Lancaster , Aldcliffe , Bailrigg",City of Lancaster
+LA2,LANCASTER,"Lancaster , Abbeystead , Aldcliffe , Aughton , Austwick , Bailrigg , Bay Horse , Caton , Clapham , Cockerham , Dolphinholme , Ellel , Farleton , Galgate , Glasson Dock , Halton , Hest Bank , High Bentham , Hornby , Quernmore , Tatham , Wharfe","City of Lancaster , Craven , Wyre"
+LA3,MORECAMBE,"Morecambe , Heysham , Middleton , Overton , Sunderland Point",City of Lancaster
+LA4,MORECAMBE,"Morecambe , Torrisholme",City of Lancaster
+LA5,CARNFORTH,"Carnforth , Arnside , Silverdale , Warton , Bolton-Le-Sands","City of Lancaster , South Lakeland"
+LA6,CARNFORTH,"Arkholme , Burton-in-Kendal , Burton in Lonsdale , Cantsfield , Casterton , Ingleton , Ireby , Kirkby Lonsdale , Masongill , Tunstall , Whittington","City of Lancaster , Craven , South Lakeland"
+LA7,MILNTHORPE,"Milnthorpe , Beetham , Storth , Heversham",South Lakeland
+LA8,KENDAL,"Kendal , Brigsteer , Grayrigg , Levens , Sedgwick , Sizergh","South Lakeland , Eden"
+LA9,KENDAL,"Kendal , Burneside , Natland , Oxenholme",South Lakeland
+LA10,SEDBERGH,"Sedbergh , Dent","South Lakeland , Craven , Eden"
+LA11,GRANGE-OVER-SANDS,"Grange-over-Sands , Allithwaite , Cark , Cartmel , Field Broughton , High Newton , Lindale , Low Newton , Meathop and Ulpha , Witherslack",South Lakeland
+LA12,ULVERSTON,"Ulverston , Aldingham , Backbarrow , Gleaston , Haverthwaite , Leece , Lindal-in-Furness , Newbiggin ( Furness ) , Newby Bridge , Staveley-in-Cartmel , Urswick","South Lakeland , Barrow-in-Furness"
+LA13,BARROW-IN-FURNESS,"Barrow-in-Furness , Newton-in-Furness , Piel Island , Rampside , Roa Island , Stainton with Adgarley","Barrow-in-Furness , South Lakeland"
+LA14,BARROW-IN-FURNESS,"Barrow-in-Furness , Walney Island",Barrow-in-Furness
+LA14,DALTON-IN-FURNESS,,non-geographic
+LA15,DALTON-IN-FURNESS,Dalton-in-Furness,Barrow-in-Furness
+LA16,ASKAM-IN-FURNESS,Askam-in-Furness,Barrow-in-Furness
+LA17,KIRKBY-IN-FURNESS,Kirkby-in-Furness,South Lakeland
+LA18,MILLOM,Millom,Copeland
+LA19,MILLOM,"Millom , Waberthwaite , Bootle",Copeland

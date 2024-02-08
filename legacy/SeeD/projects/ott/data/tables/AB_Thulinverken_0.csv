@@ -1,0 +1,16 @@
+Model,Description,Engine,Notes
+Thulin A,Monoplane - licence-built Bleriot XI,Gnome Omega 50 hp ( 37 kW ),
+Thulin B,Monoplane - licence-built Morane-Saulnier G,Thulin A 80 hp ( 60 kW ),
+Thulin C,Biplane - licence-built Albatros B.II,Benz Bz.II ( or Benz Bz.III ),
+Thulin D,Monoplane - licence-built Morane-Saulnier L,Thulin A ( Le Rhône 9C ) 80 hp ( 60 kW ),
+Thulin E,Biplane - own design,Thulin A 80 hp ( 60 kW ),
+Thulin FA,Biplane - own design,Benz Bz.III or Mercedes,Development of Thulin C
+Thulin G,Biplane floatplane - licence-built Albatros B.II,Benz Bz.III 160 hp ( 120 kW ),Development of Thulin C/Albatros B.II for Navy
+Thulin GA,Biplane,Curtiss V-2 200 hp ( 150 kW ) or Benz,Development of Thulin G with alternative powerplants
+Thulin H,Biplane trimotor bomber - own design,3 x Thulin A 240 hp ( 180 kW ),One tractor engine and 2 pusher engines in nacelles
+Thulin K,Monoplane - own design,Thulin G ( Le Rhône 11F ) 100 hp ( 75 kW ),Development of Thulin B with ailerons
+Thulin L,Biplane - own design,Thulin A 80 hp ( 60 kW ),Development of Thulin E with double bearing engine mount
+Thulin LA,Biplane - own design,Thulin G 100 hp ( 75 kW ),Variant of L with horseshoe cowling
+Thulin M,Unknown,Unknown,Possibly project only
+Thulin N,Biplane - own design,Thulin G 100 hp ( 75 kW ),Fighter
+Thulin NA,Biplane - own design,Thulin G 100 hp ( 75 kW ),Floatplane fighter based on N

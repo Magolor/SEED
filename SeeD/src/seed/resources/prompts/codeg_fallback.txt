@@ -1,0 +1,8 @@
+Consider the following task:
+<<task_profile>>
+Consider the following Python function `<<api.args_call()>>` that is expected to complete the above task:
+```python
+<<code>>
+```
+Notice that the evaluation will severely punish incorrect outputs. Thus, when the function is uncertain, it should return `None` to abstain instead of returning an incorrect guess.
+When should the function be uncertain? Please insert the fallback criteria into the code. Your response should be in the same code format (the markdown format string should be included).
