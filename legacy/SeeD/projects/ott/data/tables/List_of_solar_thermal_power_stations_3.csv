@@ -1,0 +1,13 @@
+Name,Country,Location,Electrical capacity ( MW ),Technology,Notes
+Sandstone Solar Energy Project,US,"Nye County , Nevada","1,600",solar power tower,8 units with 10h heat storage
+Blythe Solar Power Project,US,"Blythe , California","1,000",Parabolic trough,"4 units , converted to 485 MW PV"
+Stirling Energy Systems Solar One Project,US,"San Bernardino County , California",850,Dish Stirling,"converted to 618 MW PV , license terminated 27 August 2013"
+Stirling Energy Systems Solar Two Project,US,"Imperial County , California",750,Dish Stirling,converted to 594 MW PV
+Palen Solar Power Project,US,"Riverside County , California",500,Parabolic trough,"2 units , certification expired 15 December 2015"
+Ridgecrest Solar Power Project,US,"Kern County , California",250,Parabolic trough,"2 units , license terminated 22 April 2014"
+Luz SEGS XI-XII Project,US,"San Bernardino County , California",160,Parabolic trough,license expired 22 September 1989
+Aurora Solar Thermal Power Project,Australia,"Port Augusta , South Australia",150,solar power tower,
+El Reboso 2+3,Spain,La Puebla del Rio ( Seville ),100,,Parabolic trough
+SCE Solar 100,US,"Johnson Valley , California",100,Solar power tower,license expired 1983
+Diwakar,India,Askandra,100,Parabolic trough,"2014 , Parabolic trough with 3h heat storage"
+KVK Energy Solar Project,India,Askandra,100,Parabolic trough,"2014 , Parabolic trough with 4h heat storage"

@@ -1,0 +1,17 @@
+Name,Explanation,Notes
+Circular matrix or Coninvolutory matrix,A matrix whose inverse is equal to its entrywise complex conjugate : A = A,Compare with unitary matrices
+Congruent matrix,Two matrices A and B are congruent if there exists an invertible matrix P such that P A P = B,Compare with similar matrices
+EP matrix or Range-Hermitian matrix,A square matrix that commutes with its Moore-Penrose inverse : AA = A A,
+Idempotent matrix or Projection Matrix,A matrix that has the property A ² = AA = A,The name projection matrix inspires from the observation of projection of a point multiple times onto a subspace ( plane or a line ) giving the same result as one projection
+Invertible matrix,"A square matrix having a multiplicative inverse , that is , a matrix B such that AB = BA = I",Invertible matrices form the general linear group
+Involutory matrix,"A square matrix which is its own inverse , i.e. , AA = I","Signature matrices , Householder Matrices ( Also known as 'reflection matrices ' to reflect a point about a plane or line ) have this property"
+Nilpotent matrix,A square matrix satisfying A = 0 for some positive integer q,"Equivalently , the only eigenvalue of A is 0"
+Normal matrix,A square matrix that commutes with its conjugate transpose : AA = A A,They are the matrices to which the spectral theorem applies
+Orthogonal matrix,"A matrix whose inverse is equal to its transpose , A = A",They form the orthogonal group
+Orthonormal matrix,A matrix whose columns are orthonormal vectors,
+Singular matrix,A square matrix that is not invertible,
+Unimodular matrix,An invertible matrix with entries in the integers ( integer matrix ),Necessarily the determinant is +1 or −1
+Unipotent matrix,A square matrix with all eigenvalues equal to 1,"Equivalently , A − I is nilpotent . See also unipotent group"
+Unitary matrix,"A square matrix whose inverse is equal to its conjugate transpose , A = A",
+Totally unimodular matrix,A matrix for which every non-singular square submatrix is unimodular . This has some implications in the linear programming relaxation of an integer program,
+Weighing matrix,"A square matrix the entries of which are in { 0 , 1 , −1 } , such that AA = wI for some positive integer w",

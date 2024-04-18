@@ -1,0 +1,21 @@
+Product Name,Project/Vendor,License,Description
+Accounts & SSO,"Nokia , Intel , …",Free software,Client-side implementation with plugins for various services/protocols
+Active Directory Federation Services,Microsoft,Proprietary,Claims-based system and application federation
+Aerobase ( Aerobase SSO ),Aerobase,Open source,"Federated SSO ( LDAP and Active Directory ) , standard protocols ( OpenID Connect , OAuth 2.0 and SAML 2.0 ) for Web , clustering and single sign on . Aerobase Single Sign-On . Forked from Keycloak"
+Bitium,Bitium,Proprietary,"Enterprise cloud-based identity and access management solution with single sign-on , active directory integration and 2-factor authentication options"
+CAS / Central Authentication Service,Apereo,Free & Open Source ( Apache 2.0 ),"Protocol and open-source SSO server/client implementation with support for CAS , SAML1 , SAML2 , OAuth2 , SCIM , OpenID Connect and WS-Fed protocols both as an identity provider and a service provider with other auxiliary functions that deal with user consent , access management , impersonation , terms of use , etc . Licensed under Apache 2.0"
+CA Single Sign-on,Broadcom,Proprietary,"web access management system that enables user authentication and secure Internet SSO ( single sign-on ) , policy-driven authorization , federation of identities ( SAML and OIDC ) C , and complete auditing of all access to the web applications it protects"
+Crowd,Atlassian,Proprietary,
+CoSign single sign on,University of Michigan,Academic,SSO for University of Michigan
+Digital Resolve SSO,Digital Resolve,Proprietary,"SAML 2.0 , Enterprise SSO , Cloud-based , Federation , Passive Federation ; combines SSO with proprietary multifactor authentication and behavioral monitoring technology"
+Distributed Access Control System ( DACS ),Distributed Systems Software,Free Software,
+Facebook connect,Facebook,Proprietary,Facebook SSO to third parties enabled by Facebook
+FreeIPA,Red Hat,Free Software,
+HelloID,Tools4ever B.V,Proprietary,"Cloud-based Identity & Access Management ( IAM ) solution with single sign-on ( SSO ) , Multi Factor Authentication and Active Directory integration"
+IceWall SSO,Hewlett-Packard Enterprise,Proprietary,Web and Federated Single Sign-On Solution
+IBM Enterprise Identity Mapping,IBM,Free software,"Works with Kerberos ( e.g . Active Directory ) and other authentication mechanisms to map different identities and hence allow single signon to all IBM server platforms ( Windows , Linux , PowerLinux , IBM i , i5/OS , OS/400 , AIX ) even when the user name differs"
+LTPA,IBM,Proprietary,
+IBM Tivoli Access Manager,IBM,Proprietary,"Web , enterprise & Federated SSO solution . IBM Tivoli Identity Manager provides Identity management platform"
+Imprivata OneSign,Imprivata,Proprietary,
+Janrain Federate SSO,Janrain,Proprietary,Social and conventional user SSO
+JOSSO,JOSSO,Free Software,Open Source Single Sign-On Server

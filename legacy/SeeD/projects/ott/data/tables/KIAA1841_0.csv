@@ -1,0 +1,15 @@
+Species,NCBI accession #,Sequence length,Protein identity,mRNA identity
+Homo sapiens ( Human ),NP_001123465.1,718,100%,100%
+Odobenus rosmarus divergens ( Walrus ),XP_004397774.1,718,94%,97%
+Canis lupus familiaris ( Grey wolf ),XP_538505,718,92%,96%
+Equus caballus ( Horse ),XP_001495879.1,765,93%,96%
+Mus musculus ( Mouse ),NP_082136.2,718,89%,94%
+Echinops telfairi ( Hedgehog ),XP_004710320.1,718,86%,92%
+Pelodiscus sinensis ( Soft-shelled turtle ),XP_006122225.1,718,78%,88%
+Anas platyrhynchos ( Mallard duck ),XP_005016968.1,719,78%,87%
+Gallus gallus ( Red junglefowl ),NP_001186348.1,718,76%,87%
+Xenopus tropicalis ( Western clawed frog ),XP_004914757.1,715,71%,83%
+Danio rerio ( Zebrafish ),XP_001333668.2,735,60%,73%
+Drosophila melanogaster ( Fruit fly ),NP_648346.1,889,38%,62%
+Apis mellifera ( Western honeybee ),XP_006559923.1,849,40%,62%
+Anopheles gambiae ( Mosquito ),XP_558222.3,806,40%,61%

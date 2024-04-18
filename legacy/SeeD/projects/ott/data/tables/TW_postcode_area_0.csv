@@ -1,0 +1,21 @@
+Postcode district,Post town,Coverage,Local authority area
+TW1,TWICKENHAM,"Twickenham , St. Margarets , Strawberry Hill ( east )","Richmond upon Thames , Hounslow"
+TW2,TWICKENHAM,"Twickenham ( west ) , Whitton , Strawberry Hill ( west ) , Fulwell ( north )",Richmond upon Thames
+TW3,HOUNSLOW,"Hounslow , Lampton , Whitton ( north )","Hounslow , Richmond upon Thames"
+TW4,HOUNSLOW,"Hounslow West , Hounslow Heath , Whitton ( west ) , Cranford ( south )","Hounslow , Richmond upon Thames"
+TW5,HOUNSLOW,"Heston , Cranford ( north ) , Osterley ( west )",Hounslow
+TW6,HOUNSLOW,Heathrow Airport,Hillingdon
+TW7,ISLEWORTH,"Isleworth , Osterley ( east and centre ) , Whitton ( north )","Hounslow , Richmond upon Thames"
+TW8,BRENTFORD,"Brentford , Kew Bridge , Syon Park , Brentford Ait","Hounslow , Richmond upon Thames"
+TW9,RICHMOND,"Richmond , Kew , North Sheen ( north )",Richmond upon Thames
+TW10,RICHMOND,"Ham , Petersham , Richmond Hill , North Sheen ( south ) , Richmond Park","Richmond upon Thames , Kingston upon Thames"
+TW11,TEDDINGTON,"Teddington , Fulwell ( east ) , Bushy Park",Richmond upon Thames
+TW12,HAMPTON,"Hampton , Hampton Hill , Fulwell ( west )",Richmond upon Thames
+TW13,FELTHAM,"Feltham ( south of the railway line ) , Hanworth","Hounslow , Richmond upon Thames"
+TW14,FELTHAM,"Feltham ( north of the railway line ) , North Feltham , East Bedfont , Hatton","Hounslow , Hillingdon , Spelthorne"
+TW15,ASHFORD,Ashford,"Spelthorne , Hounslow"
+TW16,SUNBURY-ON-THAMES,Sunbury-on-Thames,"Spelthorne , Elmbridge , Richmond upon Thames"
+TW17,SHEPPERTON,"Shepperton , Upper Halliford , Charlton , Littleton","Spelthorne , Elmbridge"
+TW18,STAINES-UPON-THAMES,"Staines-upon-Thames , Egham Hythe , Laleham","Spelthorne , Runnymede , Windsor and Maidenhead"
+TW19,STAINES-UPON-THAMES,"Stanwell , Stanwell Moor , Wraysbury , Sunnymeads , Hythe End","Spelthorne , Windsor and Maidenhead , Hillingdon"
+TW20,EGHAM,"Egham , Englefield Green , Thorpe",Runnymede

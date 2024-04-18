@@ -1,0 +1,21 @@
+Route,Length ( mi ),Length ( km ),From,Via,To
+CR 1,0.22,0.35,Albany County line,Old River Road in Niskayuna,CR 158
+CR 2,0.36,0.58,NY 7,Niskayuna Road in Niskayuna,CR 158
+CR 3,0.88,1.42,Albany County line,Lisha Kill Road in Niskayuna,NY 7
+CR 4,0.22,0.35,Albany County line,Ferris Road in Niskayuna,CR 9
+CR 5,0.69,1.11,NY 7,Mohawk Road in Niskayuna,CR 158
+CR 6,0.54,0.87,Schenectady city line,Nott Street in Niskayuna,NY 146
+CR 7,1.24,2.00,Albany County line,Pearse Road in Niskayuna,NY 7
+CR 8,0.72,1.16,Schenectady city line,Providence Road in Niskayuna,NY 146 / CR 19
+CR 9,1.63,2.62,Albany County line,Consaul Road in Niskayuna,Schenectady city line
+CR 10,1.65,2.66,Schenectady city line,Aqueduct Road in Niskayuna,NY 146
+CR 11,1.74,2.80,CR 9,Saint Davids Lane in Niskayuna,NY 7 / Union Avenue ( NY 911G )
+CR 12,0.75,1.21,NY 50,Sunnyside Road in Glenville,Freeman Bridge Road ( NY 911F )
+CR 13,0.70,1.13,NY 5,Taurus Road in Niskayuna,CR 9
+CR 14,0.09,0.14,CR 29,Ronald Reagan Way in Glenville,Stratton Air National Guard Base
+CR 15,0.63,1.01,Albany County line,Albany Street in Niskayuna,Schenectady city line
+CR 16,0.74,1.19,CR 29,Alplaus Avenue in Glenville,Saratoga County line ( becomes CR 88 )
+CR 17,0.20,0.32,CR 1,Tech Park Road in Glenville,Dead end
+CR 18,0.18,0.29,NY 50,Rudy Chase Drive in Glenville,Dead end at Schenectady County Airport
+CR 19,3.26,5.25,CR 158,River Road in Niskayuna,NY 146 / CR 8
+CR 20,0.95,1.53,NY 50,Pashley Road in Glenville,CR 31

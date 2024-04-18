@@ -1,0 +1,21 @@
+Software,Web interfaces,Stand-alone GUIs,Integration and/or Plug-ins for IDEs
+AccuRev SCM,Yes,"Windows ( incl . Explorer integration ) , Linux , Unix , OS X , BeOS available","IntelliJ IDEA , Eclipse , Visual Studio"
+Azure DevOps,included ( Sharepoint Server used for web services ),"Windows included ; OS X , Unix available",Visual Studio . Java client for Eclipse IDE and IntelliJ IDEA ( standard in Ultimate Edition )
+GNU Bazaar,can use a plain webserver,"Olive , bzr-gtk ( GTK+ ) , Bazaar Explorer ( Qt ) , QBzr ( Qt ) , TortoiseBzr ( Windows )","Eclipse ( BzrEclipse , QBzrEclipse ) , Visual Studio ( bzr-visualstudio ) , TextMate ( TextMateBundle ) , Komodo IDE , WingIDE"
+BitKeeper,included,included ( bkd ),Unknown
+CA Software Change Manager,included,Eclipse-based GUI,"Eclipse , MS Visual Studio"
+ClearCase,"included , Clearcase Web Interface","older : MS Windows native , Motif-based GUI for Unix-like systems , TSO client for z/OS","Emacs , Eclipse ( IBM Proprietary , Eclipse-CCase ) , Visual Studio ( IBM proprietary ) , KDevelop ( standard ? ) , IntelliJ IDEA ( standard in Ultimate Edition )"
+Code Co-op,Not necessary since entire project is replicated locally,Windows,Unknown
+CVS,"cvsweb , ViewVC , others","TortoiseCVS , TkCVS ( Tcl / Tk ) , ( Windows Explorer ) , WinCVS , OS X , GTK , Qt available","Eclipse ( Team ) , KDevelop ( standard ) , IntelliJ IDEA ( standard in Community and Ultimate Editions ) , Emacs ( standard VC ) , Komodo IDE , BBEdit , WingIDE"
+CVSNT,"cvsweb , ViewVC , others","Windows , OS X , OS/400 , GTK , Qt available","All those that support CVS , plus commercial plugins for SCCI , Bugzilla , Build"
+darcs,"darcs.cgi included ; darcsweb , Trac","under development ; TortoiseDarcs ( Windows Explorer ) , OS X ( alpha ) ,","Eclipse ( eclipsedarcs ) , Emacs ( vc-darcs.el )"
+Dimensions CM,Yes,Windows ( incl . explorer integration ),"Eclipse , Visual Studio , IntelliJ IDEA , XCode , Powerbuilder"
+Fossil,"Embedded webserver included ( ui/server mode ) , ability to run multiple repositories via CGI mode",fuel-scm,Unknown
+Git,"Gitweb , wit , cgit , GitLab , GitHub , gitorious , Trac , Kallithea , Bitbucket , Stash , Springloops , Bonobo Git Server , Gitea , Gogs","gitk , git-gui ( Tcl / Tk ) , tig , Gitbox ( OS X ) , TortoiseGit , qgit , gitg ( GNOME/GTK ) , ( h ) gct ( Qt ) , git-cola ( Qt ) , Git Extensions ( Windows ) , GitEye , SmartGit/Hg , Tower , SourceTree ( OS X/Windows ) , Sprout ( OS X ) , GitX ( OS X ) , GitUp ( OS X ) , GitKraken","Aptana 3 Beta ( Aptana Studio 3 with Git Integration ) ; Atom ; Eclipse ( JGit/EGit ) ; Helix TeamHub ; Netbeans ( NbGit ) ; KDevelop ; Visual Studio ( Git Extensions ) ; Emacs ( extension for standard VC ) ; SAP Web IDE ; TextMate ( Git TextMate Bundle ) ; Vim ( VCSCommand plugin and fugitive plugin ) ; IntelliJ IDEA > 8.1 ( standard in Community and Ultimate Editions ) ; Komodo IDE ; Anjuta ; XCode , WingIDE ; PyCharm"
+GNU arch,ArchZoom,"ArchWay ( GTK2 ) , TlaLog",Emacs ( standard VC )
+IC Manage,included,"Windows , Linux , Unix , OS X","Emacs , Cadence Design Framework , Synopsys Custom Designer"
+MKS Integrity,Yes,"Windows , Linux , Unix , Solaris , AIX ,","Eclipse , Microsoft Visual Studio , Perforce and others . Also provides support for the industry standard Source Code Control ( SCC ) interface"
+Mercurial,"included , Bitbucket , Trac , Kallithea","Hgk ( Tcl/Tk ) , ( h ) gct ( Qt ) , TortoiseHg ( Windows Explorer , Nautilus ) , MacHg , MacMercurial , Murky , SourceTree ( Windows/OS X ) , TortoiseHg , SmartGit/Hg","IntelliJ IDEA ( hg4idea 3rd party plugin ) , Eclipse ( Mercurial Eclipse ) , NetBeans , Visual Studio 2008 , Emacs , Vim ( VCSCommand plugin ) , Komodo IDE , Eric Python IDE , WingIDE"
+Monotone,"ViewMTN , TracMonotone ,","Monotone-Viz ( GTK+ ) , Guitone ( Qt ) , Monotone Browser ( GTK+ , Perl )",Unknown
+Perforce Helix Core,"included , P4Web , P4FTP","Windows , Linux , Mac OS X","Eclipse , Visual Studio , Matlab ; Game Engines : Unity , Unreal , Amazon Lumberyard ; Graphics : Autodesk Maya , 3ds max , Adobe PS"
+Rational Team Concert,Yes,Eclipse-based GUI,Eclipse integration ; MS Visual Studio integration ( Limited )

@@ -1,0 +1,21 @@
+Distribution,Default Linux kernel,Default file system,Default init system,Install-time desktop environment or window manager selection,Reproducible builds
+Alpine Linux,Binary blobs,ext4,openrc,none,No
+ALT Linux,Binary blobs,ext3,systemd,"KDE Plasma Workspaces , Xfce",No
+Arch Linux,Binary blobs,none,systemd,none,No
+BLAG,Linux-libre,ext3,sysvinit,GNOME,No
+Bodhi Linux,Binary blobs,ext4,systemd,Moksha ( Enlightenment fork ),No
+Canaima,Binary blobs,?,systemd,Cinnamon and MATE,No
+CentOS,Binary blobs,xfs,systemd,GNOME,No
+Chakra,Binary blobs,ext4,systemd,KDE Plasma Workspaces,No
+ClearOS,Binary blobs,ext3,systemd,none ( Web based ),No
+CoreOS,Binary blobs,ext4,systemd,None,No
+CrunchBang Linux,Binary blobs,ext4,sysvinit,Openbox,No
+Damn Small Linux,Binary blobs,ext3,sysvinit,JWM,No
+Debian,"By default Linux-libre , but the Debian Project also hosts a non-free repository allowing blobs to be installed optionally . Built with Linux-libre tools",ext4,systemd,"GNOME , KDE , Xfce , LXDE",In progress
+Devuan,Binary blobs,ext4,sysvinit,Xfce,No
+Dragora GNU/Linux-Libre,Linux-libre,ext4,runit,Xfce,No
+dyne : bolic,Linux-libre,?,systemd,GNOME,No
+Fedora,Binary blobs,ext4,systemd,"GNOME ( default Workstation Edition ) , Spins for : KDE Plasma Workspaces , Xfce , LXDE , MATE ( with Compiz ) , Cinnamon , Sugar on a Stick",In progress
+Funtoo,Binary blobs,none,openrc,None,No
+Gentoo,Binary blobs,none,openrc,"Awesome , Enlightenment , Fluxbox , GNOME , KDE , LXDE-Meta , Openbox , XBMC and Xfce ( live DVD )",No
+gNewSense,"Debian Linux kernel , and ( unlike Debian ) blobs can not be installed",ext3,sysvinit,GNOME,No

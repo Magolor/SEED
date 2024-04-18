@@ -1,0 +1,21 @@
+Postcode district,Post town,Coverage,Local authority area
+SW1A,LONDON,"Whitehall , Buckingham Palace , the Houses of Parliament and west of St James 's",Westminster
+SW1E,LONDON,Northern 'Victoria ' around Buckingham Gate ( a street ) to include both sides of part of Victoria Street,Westminster
+SW1H,LONDON,"Surrounds of St James 's Park tube station centred on Broadway , Queen Anne 's Gate and Old Queen Street to include both sides of part of Victoria Street - derivation : Horse Guards Parade",Westminster
+SW1P,LONDON,"A projection around Parliament Square . Nearby Westminster School to Westminster Cathedral to CCAL , University of the Arts , London ( omitting all backstreets nearest to Vauxhall Bridge Road ) - derivation : Parliament Square",Westminster
+SW1V,LONDON,"between Vauxhall Bridge , Grosvenor ( or Victoria Railway ) Bridge and Victoria Station , taking in both sides of Vauxhall Bridge Road ; includes Pimlico",Westminster
+SW1W,LONDON,"South or lower Belgravia and Chelsea ( a corner ) , from Sloane Square to Victoria Station to Grosvenor Waterside basin","Westminster , Kensington and Chelsea"
+SW1X,LONDON,"Rest of Belgravia ( north of Eaton Square ) , Knightsbridge ( eastern half ) and Chelsea ( a corner )","Westminster , Kensington and Chelsea"
+SW1Y,LONDON,All but the west of St James 's,Westminster
+SW2,LONDON,"Brixton district : Brixton Hill , Tulse Hill ( part ) , Brixton ( part ) , Streatham Hill , Clapham ( part ) , Eastern parts of Balham , Lambeth",Lambeth
+SW3,LONDON,"Chelsea district : Chelsea , Brompton , Knightsbridge ( part )",Kensington and Chelsea
+SW4,LONDON,"Clapham district : Clapham , Stockwell ( part )","Lambeth , Wandsworth"
+SW5,LONDON,Earls Court district : Earls Court,Kensington and Chelsea
+SW6,LONDON,"Fulham district : Fulham , Parsons Green",Hammersmith and Fulham
+SW7,LONDON,"South Kensington district : South Kensington , Knightsbridge ( part )","Kensington and Chelsea , Westminster"
+SW8,LONDON,"South Lambeth district : South Lambeth , Wandsworth Road , Vauxhall , Battersea : Nine Elms ( part ) , Clapham ( part ) , NW area of Stockwell , Oval ( part )","Lambeth , Wandsworth"
+SW9,LONDON,"Stockwell district : Brixton , Stockwell , Clapham ( part ) , Oval ( part )",Lambeth
+SW10,LONDON,"West Brompton district : West Brompton , Chelsea ( part )","Kensington and Chelsea , Hammersmith and Fulham"
+SW11,LONDON,"Battersea head district : Battersea , Clapham South","Wandsworth , Lambeth"
+SW12,LONDON,"Balham district : Balham , Clapham South , Wandsworth Common ( part )","Wandsworth , Lambeth"
+SW13,LONDON,Barnes district : Barnes,Richmond upon Thames

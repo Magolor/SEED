@@ -1,0 +1,10 @@
+Please help me with the following Python programming task:
+<<task_profile>>
+Please provide not an implementation but a template with comments, so that I can complete the task myself.
+The implementation should be robust, instead of only passing the provided examples.
+<<'Hint: '+advice+'\n' if advice else ''>>
+Your response should be in the following format (the markdown format string should be included):
+```python
+<<api.api_def(with_kwargs=True)>>
+    '''Your Template Here.'''
+```

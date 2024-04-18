@@ -1,0 +1,21 @@
+Route,Length ( mi ),Length ( km ),From,Via,To
+CR 1,5.25,8.45,Alexandria Bay village line,"Dump Road , Walton Street , and Goose Bay and Crooked Creek roads in Alexandria",CR 111
+CR 2,5.49,8.84,CR 3,Alexandria Center Road in Alexandria,NY 26
+CR 3,15.21,24.48,NY 12 in Clayton village,"East Line , Tanners Corners , and Plessis-Redwood roads",CR 192 in Alexandria
+CR 4,12.52,20.15,NY 12E in Cape Vincent,Rosiere and Crystal Springs roads,NY 12E in Clayton
+CR 5,14.41,23.19,NY 12E in Lyme,Three Mile Creek Road,CR 181 in Orleans
+CR 6,8.27,13.31,Dead end in Cape Vincent,"Tibbets Point , Lighthouse , and Pleasant Valley roads",CR 57 in Lyme
+CR 7,1.21,1.95,NY 12E,Old State Road in Cape Vincent,NY 12E
+CR 8,8.64,13.90,CR 7 in Cape Vincent,Millens Bay Road,NY 12E in Lyme
+CR 9,7.47,12.02,NY 12E in Cape Vincent,Sand Bay Road,NY 12 in Clayton
+CR 11,4.63,7.45,NY 12,Underbluff Road in Clayton,CR 5
+CR 12,5.09,8.19,NY 12 in Clayton,Overbluff Road,NY 180 in Orleans
+CR 13,5.44,8.75,NY 411 in Orleans,East Ridge Road,NY 180 in Orleans
+CR 15,10.48,16.87,Pink School House Road in Pamelia,Perch Lake and Jack Street roads,CR 3 in Alexandria
+CR 16,7.94,12.78,NY 12 in Brownville,Parish and Jenkins roads,Evans Mills village line in Le Ray
+CR 17,1.18,1.90,Pamelia town line,Kiser School House Road in Le Ray,NY 37
+CR 18,2.83,4.55,CR 46 in Le Ray,Dutch Settlement Road,NY 37 in Theresa
+CR 20,3.72,5.99,CR 46 in Theresa,Kelsey Bridge Road,NY 26 in Philadelphia
+CR 21,7.47,12.02,CR 193 in Theresa village,English Settlement Road,Cottage Hill Road in Theresa
+CR 22,9.34,15.03,CR 194 in Theresa village,Oxbow and Vrooman Creek roads,CR 25 in Antwerp
+CR 24,5.88,9.46,US 11,Oxbow Road in Antwerp,CR 25

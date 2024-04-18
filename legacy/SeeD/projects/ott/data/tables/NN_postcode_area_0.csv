@@ -1,0 +1,21 @@
+Postcode district,Post town,Coverage,Local authority area
+NN1,NORTHAMPTON,Northampton,Northampton
+NN2,NORTHAMPTON,"Kingsthorpe , Boughton","Northampton , Daventry"
+NN3,NORTHAMPTON,"Abington ( East ) , Bellinge , Blackthorn , Boothville , Ecton Brook , Great Billing , Headlands , Kingsley Park , Lings , Little Billing , Moulton , Moulton Park , Parklands , Rectory Farm , Round Spinney , Southfields , Spinney Hill , Standens Barn , Weston Favell","Daventry , Northampton"
+NN4,NORTHAMPTON,"Brackmills , Delapré , East Hunsbury , Far Cotton , Grange Park , Great Houghton , Hardingstone , West Hunsbury , Wootton","Northampton , South Northamptonshire"
+NN5,NORTHAMPTON,"Duston , New Duston Kings Heath , St James , Dallington , Spencer , St Crispins , Upton",Northampton
+NN6,NORTHAMPTON,"Brixworth , Cold Ashby , Crick , Earls Barton , Ecton , Guilsborough , Long Buckby Spratton , Sywell , West Haddon , East Haddon , Chapel Brampton , Church Brampton","Daventry , Northampton , Wellingborough"
+NN7,NORTHAMPTON,"Blisworth , Bugbrooke , Castle Ashby , Cogenhoe , Dodford , Flore , Gayton , Grafton Regis , Hackleton , Harpole , Harlestone , Hartwell , Horton , Milton Malsor , Nether Heyford , Piddington , Preston Deanery , Quinton , Roade , Rothersthorpe , Stoke Bruerne , Weedon Bec , Yardley Gobion , Yardley Hastings","Daventry , South Northamptonshire"
+NN8,WELLINGBOROUGH,"Wellingborough , Wilby",Wellingborough
+NN9,WELLINGBOROUGH,"Wellingborough , Chelveston , Finedon , Great Harrowden , Irthlingborough , Little Harrowden , Raunds","East Northamptonshire , Wellingborough"
+NN10,RUSHDEN,"Higham Ferrers , Rushden , Wymington","East Northamptonshire , Bedford"
+NN11,DAVENTRY,"Braunston , Daventry , Greens Norton , Hinton , Moreton Pinkney , Welton , Lower Shuckburgh","Daventry , Stratford-on-Avon"
+NN12,TOWCESTER,"Abthorpe , Caswell , Greens Norton , Silverstone , Towcester , Weston",South Northamptonshire
+NN13,BRACKLEY,"Brackley , Croughton , Farthinghoe , Hinton-in-the-Hedges , Westbury , Turweston , Mixbury","South Northamptonshire , Aylesbury Vale , Cherwell"
+NN14,KETTERING,"Broughton , Desborough , Geddington , Isham , Pytchley , Rothwell , Thorpe Malsor , Thrapston , Hardwick","East Northamptonshire , Kettering , Wellingborough"
+NN15,KETTERING,"Burton Latimer , Barton Seagrave",Kettering
+NN16,KETTERING,Kettering,Kettering
+NN17,CORBY,"Bulwick , Corby","Corby , East Northamptonshire"
+NN18,CORBY,"Great Oakley , Little Oakley",Corby
+NN29,WELLINGBOROUGH,"Bozeat , Great Doddington , Irchester , Podington , Wollaston","Bedford , Wellingborough"
+NN99,,,non-geographic

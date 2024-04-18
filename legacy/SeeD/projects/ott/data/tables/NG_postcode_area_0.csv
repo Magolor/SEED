@@ -1,0 +1,21 @@
+Postcode district,Post town,Coverage,Local authority area
+NG1,NOTTINGHAM,Nottingham city centre,Nottingham
+NG2,NOTTINGHAM,"Nottingham city centre , Colwick Park , Sneinton , The Meadows , West Bridgford","Nottingham , Rushcliffe ,"
+NG3,NOTTINGHAM,"Carlton , Sneinton , St Ann 's , Mapperley","Gedling , Nottingham"
+NG4,NOTTINGHAM,"Gedling Village , Netherfield , Carlton , Colwick",Gedling
+NG5,NOTTINGHAM,"Sherwood , Arnold , Bestwood , Carrington , Top Valley , Rise Park","Nottingham , Gedling"
+NG6,NOTTINGHAM,"Bestwood Village , Bulwell , Old Basford","Nottingham , Gedling"
+NG7,NOTTINGHAM,"New Basford , Forest Fields , Hyson Green , Radford , Lenton",Nottingham
+NG8,NOTTINGHAM,"Aspley , Wollaton , Whitemoor , Bilborough , Strelley","Nottingham , Broxtowe"
+NG9,NOTTINGHAM,"Beeston , Stapleford , Lenton Abbey , Chilwell , Trowell , Bramcote","Broxtowe , Nottingham"
+NG10,NOTTINGHAM,"Long Eaton , Sawley , Sandiacre",Erewash
+NG11,NOTTINGHAM,"Clifton , Ruddington , Gotham , Kingston on Soar","Nottingham , Rushcliffe"
+NG12,NOTTINGHAM,"Cotgrave , Radcliffe on Trent , Keyworth , Edwalton",Rushcliffe
+NG13,NOTTINGHAM,"Bingham , Whatton , Bottesford , Aslockton","Rushcliffe , Melton"
+NG14,NOTTINGHAM,"Calverton , Lowdham , Burton Joyce , Gunthorpe",Gedling
+NG15,NOTTINGHAM,"Hucknall , Ravenshead , Newstead","Ashfield , Gedling"
+NG16,NOTTINGHAM,"Kimberley , Eastwood , Nuthall , Langley Mill , Pinxton , Selston , Awsworth , Ironville , Jacksdale , Westwood , Underwood , Brinsley , Watnall","Amber Valley , Ashfield Bolsover , Broxtowe"
+NG17,"NOTTINGHAM , SUTTON-IN-ASHFIELD","Sutton-in-Ashfield , Kirkby-in-Ashfield , Stanton Hill , Skegby",Ashfield
+NG18,MANSFIELD,Mansfield,Mansfield
+NG19,MANSFIELD,"Mansfield Woodhouse , Forest Town",Mansfield
+NG20,MANSFIELD,"Shirebrook , Market Warsop","Bolsover , Mansfield"

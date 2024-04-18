@@ -1,0 +1,7 @@
+<<task_desc>>
+The input contains the following attributes:
+<<inputs_desc>>
+You are expected to output:
+<<outputs_desc>>
+<<'Examples:\n' if examples_desc else ''>>
+<<indent(examples_desc,1)+'\n' if examples_desc else ''>>

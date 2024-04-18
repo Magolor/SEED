@@ -1,0 +1,11 @@
+Currency,Region,Symbol,ISO,Peg
+Euro,Eurozone Austria Belgium Cyprus Estonia Finland France Germany Greece Ireland Italy Latvia Lithuania Luxembourg Malta Netherlands Portugal Slovakia Slovenia Spain,€,EUR,Floating
+Bulgarian lev,Bulgaria,лв,BGN,Currency board
+Croatian kuna,Croatia,kn,HRK,Floating
+Czech koruna,Czech Republic,Kč,CZK,Floating
+Danish krone,Denmark,kr,DKK,ERM II
+Hungarian forint,Hungary,Ft,HUF,Floating
+Polish złoty,Poland,zł,PLN,Floating
+Romanian leu,Romania,Leu,RON,Floating
+Swedish krona,Sweden,kr,SEK,Floating
+Swiss franc,Campione d'Italia ( part of Italy ) Büsingen am Hochrhein ( part of Germany ),Fr,CHF,Floating

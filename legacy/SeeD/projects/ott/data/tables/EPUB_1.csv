@@ -1,0 +1,21 @@
+Software,Platform,License,Notes
+ABBYY FineReader,Microsoft Windows,Proprietary,Version 11 exports to EPUB format
+Abiword,"FreeBSD , Linux , Windows",GPL,Support EPUB 2.0 format export since 2.9.1 release
+Adobe InDesign,"Windows , OS X",Proprietary,"Exports to EPUB format . Versions prior to 5.5 create EPUBs that require significant editing to pass ePubCheck or ePubPreFlight . As from InDesign CC 2014 , InDesign can export in ePub3 fixed-layout format"
+Adobe RoboHelp,Windows,Unknown,Online documentation tool that supports export to EPUB format
+Atlantis Word Processor,"Windows , Portable app",Shareware,"Converts any document to EPUB ; supports multilevel TOCs , font embedding , and batch conversion"
+Booktype,Web,GPL,"Book production platform that outputs to many formats , including ePub . The platform can import content in various formats and supports collaborative editing"
+calibre,"Windows , OS X , FreeBSD , Linux",GPL,"Conversion software and e-book organizer . Allows plugins , including for editing EPUB files ; there is for instance a plugin to merge several EPUB files into one"
+eLML,"Windows , OS X , FreeBSD , Linux",Unknown,"The eLesson Markup Language is a platform-independent XML-based open source framework to create eLearning content . It supports various output formats like SCORM , HTML , PDF and also eBooks based on the ePub format"
+Feedbooks,Web,Unknown,Free cloud service for downloading public domain works and for self-publishing
+Help & Manual,Windows,Proprietary,Single source publishing tool that generates ePUB amongst several other documentation formats
+HelpNDoc,Windows,"Free for personal use , commercial otherwise",Help authoring tool that generates EPUB files and other formats
+iBooks Author,OS X,Unknown,"Desktop publishing and page layout application . Free from Apple . Can export .ibooks format , which is a proprietary format based on EPUB . There are restrictions on the commercial distribution of works created with iBooks in the .ibooks format . These restrictions apply to the .ibooks format only and it can be argued that a file renamed to .epub is not distributed in the .ibooks format"
+IGP : Digital Publisher,Web,Proprietary,Portal Cloud Service or licence application for digital content publishing to all formats . Generates ePub 2 and ePub 3 fixed and flow layout plus other formats
+iStudio Publisher,OS X,Proprietary,Desktop publishing and page layout application
+LibreOffice,"Windows , OS X , Linux","Mozilla Public License , GNU Lesser General Public License","Text processor with a functionality to export as ePub3 format since version 6.0 . Also allowed to export as ePub format via installing extension , such as eLaix"
+Lulu.com,Web,Proprietary,"Converts .doc , .docx , or PDF manuscripts to an ePub in order that they may be sold on the Website in question"
+Madcap Flare,Windows,Proprietary,Single source publishing tool that can export content as ePUB
+oXygen XML Editor,"OS X , Windows , FreeBSD , Linux",Proprietary,"oXygen XML Editor is the first tool that supports creating , transforming , and validating the documents that comprise the EPUB package"
+Pages,OS X,Unknown,"Word processor ( part of the iWork '09 suite ) that can export to EPUB format ( Pages '09 only , and only with the iWork 9.0.4 update )"
+Pages,Apple iOS,Unknown,Word processor for mobile devices that can export to EPUB format

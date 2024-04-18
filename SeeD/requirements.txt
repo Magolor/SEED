@@ -1,0 +1,9 @@
+fuzzywuzzy
+fuzzysearch
+jsonlines
+numpy
+openai
+pandas
+protobuf==3.20.3
+pyheaven
+transformers==4.37.2

@@ -1,0 +1,21 @@
+Postcode district,Post town,Coverage,Local authority area
+W1A,LONDON,PO boxes & Admail codes in W1,non-geographic
+W1B,LONDON,"Portland Place , Regent Street",Westminster
+W1C,LONDON,Oxford Street ( west ),Westminster
+W1D,LONDON,"Soho ( south east ) ; Chinatown , Soho Square",Westminster
+W1F,LONDON,Soho ( north west ),Westminster
+W1G,LONDON,Harley Street,Westminster
+W1H,LONDON,Marylebone,Westminster
+W1J,LONDON,"Mayfair ( south ) , Piccadilly",Westminster
+W1K,LONDON,"Mayfair ( north ) , Grosvenor Square",Westminster
+W1S,LONDON,"Mayfair ( east ) , Hanover Square , Savile Row , Royal Academy",Westminster
+W1T,LONDON,"Fitzrovia , Tottenham Court Road",Camden
+W1U,LONDON,Marylebone,Westminster
+W1W,LONDON,"Great Portland Street , Fitzrovia",Westminster
+W2,LONDON,"Paddington head district : Paddington , Bayswater , Hyde Park , Westbourne Green , Little Venice ( part ) , Notting Hill ( part )","Westminster , Kensington and Chelsea"
+W3,LONDON,"Acton district : Acton , West Acton , North Acton ( part ) , South Acton , East Acton ( west ) , Park Royal ( south ) , Hanger Hill Garden Estate , Gunnersbury Park","Ealing , Hounslow , Hammersmith and Fulham"
+W4,LONDON,"Chiswick district : Chiswick , Gunnersbury , Turnham Green , Acton Green , South Acton ( part ) , Bedford Park","Hounslow , Ealing , Hammersmith and Fulham"
+W5,LONDON,"Ealing district : Ealing , South Ealing , Ealing Common , North Ealing , Northfields , ( south and east ) , Pitshanger , Hanger Lane","Ealing , Hounslow"
+W6,LONDON,"Hammersmith district : Hammersmith , Ravenscourt Park , Stamford Brook ( part )","Hammersmith and Fulham , Hounslow"
+W7,LONDON,"Hanwell district : Hanwell , Boston Manor ( part )","Ealing , Hounslow"
+W8,LONDON,"Kensington district : Kensington , Holland Park ( part )",Kensington and Chelsea

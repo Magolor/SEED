@@ -1,0 +1,17 @@
+Region,Type,Code,Name,Major communities
+02 Saguenay- Lac-Saint-Jean,TE,941,Saguenay,Saguenay ( V )
+03 Capitale-Nationale,TE,23,Québec,"Quebec ( V ) , Saint-Augustin-de-Desmaures ( V ) , L'Ancienne-Lorette ( V )"
+04 Mauricie,TE,36,Shawinigan,Shawinigan
+04 Mauricie,TE,371,Trois-Rivières,Trois-Rivières
+04 Mauricie,TE,90,La Tuque,La Tuque ( V )
+05 Estrie,TE,43,Sherbrooke,Sherbrooke ( V )
+06 Montréal,TE,66,Montréal,"Montreal ( V ) , Westmount ( V ) , Montreal West ( V ) , Côte Saint-Luc ( V ) , Hampstead ( V ) , Mount Royal ( V ) , Dorval ( V ) , Pointe-Claire ( V ) , Kirkland ( V ) , Beaconsfield ( V ) , Sainte-Anne-de-Bellevue ( V ) , Dollard-des-Ormeaux ( V )"
+07 Outaouais,TE,81,Gatineau,Gatineau ( V )
+08 Abitibi-Témiscamingue,TE,86,Rouyn-Noranda,Rouyn-Noranda ( V )
+10 Nord-du-Québec,TE,992,Kativik,
+10 Nord-du-Québec,TE,993,Eeyou Istchee Baie-James,Chibougamau ( V )
+11 Gaspésie- Îles-de-la-Madeleine,TE,01,Les Îles-de-la-Madeleine,Les Îles-de-la-Madeleine ( M )
+12 Chaudière-Appalaches,TE,251,Lévis,Lévis ( V )
+13 Laval,TE,65,Laval,Laval ( V )
+15 Laurentides,TE,74,Mirabel,Mirabel
+16 Montérégie,TE,58,Longueuil,"Brossard ( V ) , Saint-Lambert ( V ) , Boucherville ( V ) , Saint-Bruno-de-Montarville ( V ) , Longueuil ( V )"

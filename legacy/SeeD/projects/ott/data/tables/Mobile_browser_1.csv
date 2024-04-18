@@ -1,0 +1,20 @@
+Browser,Creator,Current layout engine,Platforms,Software license,Notes
+360 Web Browser,Digital Poke,,iOS,,
+Aloha ( web browser ),Aloha Mobile Ltd,WebKit,"iOS , Android",,Privacy focused browser
+BOLT browser,Bitstream Inc,WebKit,"Java ME , BlackBerry",Proprietary,Discontinued December 2011
+Brave browser,Brave,,"iOS , Android ,",Open-source,"Privacy-focused , built on chromium"
+Cake Browser,"Cake Technologies , Inc",WebKit,"iOS , Android",,Swipeable mobile browser created in 2018
+Chrome,Google,"WebKit , Blink","Android , iOS",Freeware under Google Chrome Terms of Service,
+UC Browser,UC Mobile,U3 ( based on WebKit ),"S60 , Java ME , Android , iOS , Windows Mobile , Bada",Proprietary Freeware,Proxy-rendering in Java and Symbian . U3 engine in Android
+Classilla,Cameron Kaiser,Clecko a modified Gecko,"Mac OS 8.6 , Mac OS 9",MPL / GPL / LGPL,"Although desktop , uses a mobile user agent by default due to the older machines it services"
+Deepfish,Microsoft,,Windows Mobile,Proprietary,Proxy-rendering browser ( Discontinued )
+Micromax Browser,Micromax Informatics,,Android,,
+Dolphin Browser,MoboTap,WebKit,"Android , iOS",,
+Firefox for mobile,Mozilla Foundation,"Gecko , WebKit ( iOS )","Android , Firefox OS ( discontinued ) , iOS",MPL,"Includes HTML5 support , Firefox Sync , add-ons support and tabbed browsing"
+Links,Twibright Labs,,PlayStation Portable,GPL,"Unofficial port , requires custom firmware"
+Mercury Browser,"iLegendSoft , Inc",,"Android , iOS",Freeware,
+Minimo,Mozilla Foundation,Gecko,"Linux , Windows CE",MPL / GPL / LGPL,Discontinued
+NetFront,"ACCESS Co. , Ltd","NetFront , WebKit","Linux , S60 , BREW , Android , Windows Mobile , Others",Proprietary,
+Opera Mini,Opera Software,Presto,"Java ME , Android , Windows Mobile , iOS , BlackBerry , S60 , Others",Proprietary,"Supports most features of stand-alone Opera , but can run on less capable phones by offloading memory-intensive rendering to proxy server ( based on Opera Mobile running on a server )"
+Opera Mobile,Opera Software,"Presto , Blink","Android , Maemo , BREW , S60 , Windows Mobile",,From version 14 it is based on Chromium
+Pale Moon,Moonchild Productions,,Android,Proprietary Freeware,Built on Firefox code

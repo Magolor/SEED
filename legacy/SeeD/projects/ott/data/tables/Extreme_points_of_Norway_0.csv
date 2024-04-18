@@ -1,0 +1,16 @@
+Heading,Scope,Location,Region,Bordering entity
+North,Kingdom,Rossøya,Svalbard,Barents Sea
+North,Proper,Knivskjellodden,Magerøya,Barents Sea
+North,Mainland,Cape Nordkinn,Lebesby,Barents Sea
+South,Kingdom,Pysen,Mandal,Skagerrak
+South,Mainland,Lindesnes,Lindesnes,Skagerrak
+South,Dependencies,Larsøya,Bouvet Island,Atlantic Ocean
+South,Antarctica,South Pole,Queen Maud Land,n/a
+East,Kingdom,Kræmerpynten,Svalbard,Barents Sea
+East,Proper,Hornøya,Vardø,Barents Sea
+East,Mainland,Kibergsneset,Vardø,Barents Sea
+East,Antarctica,Eastern Border,Queen Maud Land,Australian Antarctic Territory
+West,Kingdom,Hoybergodden,Jan Mayen,Greenland Sea
+West,Proper,Holmebåen,Solund,North Sea
+West,Mainland,Vardetangen,Austrheim,North Sea
+West,Antarctica,-,Peter I Island,Amundsen Sea

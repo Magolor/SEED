@@ -1,0 +1,9 @@
+Branding,Callsign,Ch . #,Power kW ( ERP ),Station Type,Location ( Transmitter Site )
+5 Manila,DWET-TV,TV-5,60 kW ( 120 kW ERP ),Originating,Metro Manila
+5 Laoag ( Channel-2 ),DWTE-TV,TV-2,2.5 kW ( 15 kW ERP ),Relay,Laoag
+5 Baguio ( Channel-28 ),DZET-TV,TV-28,30 kW ( 113.44 kW ERP ),Relay,Baguio
+5 Bacolod ( Channel-32 ),DYTE-TV,TV-32,10 kW ( 346.2 kW ERP ),Relay,Bacolod
+5 Cebu ( Channel-21 ),DYET-TV,TV-21,50 kW ( 232.8 kW ERP ),Relay,Cebu
+5 Cagayan de Oro ( Channel-21 ),DXTE-TV,TV-21,5 kW ( 11.3 kW ERP ),Relay,Cagayan de Oro
+5 Davao ( Channel-2 ),DXET-TV,TV-2,50 kW ( 346.2 kW ERP ),Relay,Davao
+5 General Santos ( Channel-12 ),DXER-TV,TV-12,5 kW ( 11.3 kW ERP ),Relay,General Santos

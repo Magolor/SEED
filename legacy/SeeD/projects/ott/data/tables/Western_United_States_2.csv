@@ -1,0 +1,21 @@
+Rank ( West ),Rank ( USA ),MSA,Population,State ( s )
+1,2,Los Angeles - Long Beach - Anaheim MSA,"13,340,068",California
+2,11,San Francisco - Oakland - Hayward MSA,"4,656,132",California
+3,12,Phoenix - Mesa - Scottsdale MSA,"4,574,531",Arizona
+4,13,San Bernardino - Riverside - Ontario MSA,"4,489,159",California
+5,15,Seattle - Tacoma - Bellevue MSA,"3,733,580",Washington
+6,17,San Diego - Carlsbad MSA,"3,299,521",California
+7,19,Denver - Aurora - Lakewood MSA,"2,814,330",Colorado
+8,23,Portland - Vancouver - Hillsboro MSA,"2,389,228",Oregon Washington
+9,27,Sacramento - Roseville - Arden-Arcade MSA,"2,274,194",California
+10,29,Las Vegas - Henderson - Paradise MSA,"2,114,801",Nevada
+11,35,San Jose - Sunnyvale - Santa Clara MSA,"1,976,836",California
+12,48,Salt Lake City MSA,"1,170,266",Utah
+13,53,Tucson MSA,"1,010,025",Arizona
+14,54,Honolulu MSA,"998,714",Hawaii
+15,56,Fresno MSA,"974,861",California
+16,60,Albuquerque MSA,"907,301",New Mexico
+17,61,Bakersfield - Delano MSA,"882,176",California
+18,66,Oxnard - Thousand Oaks - Ventura MSA,"850,536",California
+19,77,Stockton - Lodi MSA,"726,106",California
+20,80,Colorado Springs MSA,"697,856",Colorado

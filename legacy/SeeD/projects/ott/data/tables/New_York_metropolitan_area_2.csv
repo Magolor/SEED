@@ -1,0 +1,12 @@
+Station,Railroad ( s ),State,County,Type
+New York Pennsylvania Station,"Amtrak , LIRR , NJT",NY,New York,Terminal and Transfer
+Grand Central Terminal,MNRR,NY,New York,Terminal
+Newark Pennsylvania Station,"Amtrak , NJT , PATH",NJ,Essex,Transfer
+Hoboken Terminal,"NJT , MNRR , PATH",NJ,Hudson,Terminal
+Atlantic Terminal,LIRR,NY,Kings,Terminal
+Hunterspoint Avenue,LIRR,NY,Queens,Terminal
+Woodside Station,LIRR,NY,Queens,Transfer
+Jamaica Station,LIRR,NY,Queens,Transfer
+Secaucus Junction,"NJT , MNRR",NJ,Hudson,Transfer
+New Haven Union Station,"Amtrak , MNRR , Shore Line East",CT,New Haven,Terminal and Transfer
+Trenton Station,"Amtrak , NJT , SEPTA",NJ,Mercer,Terminal and Transfer

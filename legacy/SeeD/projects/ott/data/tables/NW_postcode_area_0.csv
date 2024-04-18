@@ -1,0 +1,14 @@
+Postcode district,Post town,Coverage,Local authority area
+NW1,LONDON,"North Western head district : Marylebone ( part ) , Euston , Regent 's Park , Baker Street , Camden Town , Somers Town , Primrose Hill ( part ) and Lisson Grove ( part )","Camden , Westminster"
+NW1W,LONDON,PO boxes in NW1,non-geographic
+NW2,LONDON,"Cricklewood district : Cricklewood , Dollis Hill , Childs Hill , Golders Green ( part ) , Brent Cross ( part ) , Willesden ( north ) , Neasden ( north )","Barnet , Brent , Camden"
+NW3,LONDON,"Hampstead district : Hampstead , Belsize Park , Frognal , Childs Hill ( east ) , South Hampstead ( north ) , Swiss Cottage ( east ) , Primrose Hill ( north ) , Chalk Farm ( west ) , Gospel Oak","Camden , Barnet"
+NW4,LONDON,"Hendon district : Hendon , Brent Cross ( part )",Barnet
+NW5,LONDON,"Kentish Town district : Kentish Town , Camden Town ( part ) , Gospel Oak ( part ) , Dartmouth Park , Chalk Farm ( east ) , Tufnell Park ( west )","Camden , Islington"
+NW6,LONDON,"Kilburn district : Kilburn , Brondesbury , West Hampstead , Queen 's Park , Kensal Green ( part ) , South Hampstead ( south ) , Swiss Cottage ( west )","Brent , Camden , Westminster"
+NW7,LONDON,"Mill Hill district : Mill Hill , Arkley ( part ) , Edgware ( part )",Barnet
+NW8,LONDON,"St John 's Wood district : St John 's Wood , Primrose Hill ( south ) , Marylebone ( north ) , Lisson Grove ( north )","Westminster , Camden"
+NW9,LONDON,"The Hyde district : The Hyde , Colindale , Kingsbury , West Hendon , Wembley Park ( part ) , Queensbury ( part )","Barnet , Brent , Harrow"
+NW10,LONDON,"Willesden district : Willesden , Harlesden , Kensal Green , Brent Park , College Park , Stonebridge , North Acton ( part ) , West Twyford , Neasden ( south ) , Old Oak Common , Park Royal ( north )","Brent , Ealing , Hammersmith and Fulham , Kensington and Chelsea"
+NW11,LONDON,"Golders Green district : Golders Green , Temple Fortune , Hampstead Garden Suburb ( west ) , Hendon ( part ) , Brent Cross ( part )",Barnet
+NW26,LONDON,PO boxes in NW10,non-geographic

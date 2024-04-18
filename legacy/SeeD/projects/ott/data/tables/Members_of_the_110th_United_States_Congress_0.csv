@@ -1,0 +1,10 @@
+Region,Democrats,Republicans,Total,States as defined in the US Census
+New England,21,1,22,"CT , MA , ME , NH , RI , VT"
+Mid-Atlantic,47,23,70,"DE , MD , NJ , NY , PA"
+Midwest,34,35,69,"MI , IL , IN , OH , WI"
+Great Plains,16,15,31,"IA , KS , MN , MO , ND , NE , SD"
+South Atlantic,29,41,71,"FL , GA , NC , SC , VA , WV"
+South Central,32,42,74,"AL , AR , KY , LA , MS , OK , TN , TX"
+Mountain,11,17,28,"AZ , CO , ID , MT , NM , NV , UT , WY"
+Pacific,46,24,70,"AK , CA , HI , OR , WA"
+Total,236,198,435,

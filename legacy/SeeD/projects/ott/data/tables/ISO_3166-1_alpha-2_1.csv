@@ -1,0 +1,13 @@
+Code,Area name or country name,Current actual country,ccTLD,Notes
+AC,Ascension Island,United Kingdom,.ac,Reserved on request of UPU for stamp issuing area
+CP,Clipperton Island,France,-,Reserved on request of ITU for location of certain telecommunications installations
+DG,Diego Garcia,United Kingdom,-,Reserved on request of ITU for location of certain telecommunications installations
+EA,"Ceuta , Melilla",Spain,-,Reserved on request of WCO for area not covered by European Union Customs arrangements Part of Spanish North Africa ( Spanish : África Septentrional Española )
+EU,European Union,multiple,.eu,Reserved on request of ISO 4217 /MA for the European monetary unit Euro Extended for ISO 6166 Securities - International securities identification numbering system ( ISIN ) in March 1998 Extended for any application needing to represent the name European Union in August 1999
+EZ,Eurozone,multiple,-,Reserved on request of ISO 6166 /RA for the European OTC derivatives within International securities identification numbering system ( ISIN )
+FX,"France , Metropolitan",France,-,Reserved on request of France Officially assigned before deleted from ISO 3166-1 ( now assigned ISO 3166-3 code FXFR )
+IC,Canary Islands,Spain,-,Reserved on request of WCO for area not covered by European Union Customs arrangements . Code taken from name in Spanish : Islas Canarias
+SU,USSR,multiple,.su,From June 2008 ; Transitionally reserved from September 1992 Officially assigned before deleted from ISO 3166-1 ( now assigned ISO 3166-3 code SUHH ) Official name : Union of Soviet Socialist Republics ( common name : Soviet Union )
+TA,Tristan da Cunha,United Kingdom,-,Reserved on request of UPU for stamp issuing area
+UK,United Kingdom,United Kingdom,.uk,Reserved on request of the United Kingdom lest UK be used for any other country Also used by the European Commission United Kingdom is officially assigned the alpha-2 code GB
+UN,United Nations,multiple,-,Reserved directly by ISO 3166 /MA for the United Nations

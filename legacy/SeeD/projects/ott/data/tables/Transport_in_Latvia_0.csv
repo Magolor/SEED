@@ -1,0 +1,16 @@
+Number,E-road,Route,Length ( km )
+A1,E67,Rīga - Ainaži ( EE border ),101
+A2,E77,Rīga - Sigulda - Veclaicene ( EE border ),196
+A3,E264,Inčukalns - Valmiera - Valka ( EE border ),101
+A4,E67 E77,Rīga ring road ( Baltezers - Saulkalne ),20
+A5,E67 E77,Rīga ring road ( Salaspils - Babīte ),40
+A6,E22 E262,Rīga - Daugavpils - Krāslava - Pāternieki ( BY border ),307
+A7,E67,Rīga - Bauska - Grenctāle ( LT border ),85
+A8,E77,Rīga - Jelgava - Meitene ( LT border ),76
+A9,,Rīga - Skulte - Liepāja,199
+A10,E22,Rīga - Ventspils,190
+A11,,Liepāja - Rucava ( LT border ),57
+A12,E22 E262,Jēkabpils - Rēzekne - Ludza - Terehova ( RU border ),166
+A13,E262,Grebņeva ( RU border ) - Rēzekne - Daugavpils - Medumi ( LT border ),163
+A14,E262,Daugavpils ring road ( Tilti - Kalkūne ),15
+A15,E262,Rēzekne ring road,7

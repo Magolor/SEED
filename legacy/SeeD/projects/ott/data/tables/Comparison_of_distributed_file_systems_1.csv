@@ -1,0 +1,10 @@
+Client,Written in,License,Access API
+BeeGFS,C / C++,"FRAUNHOFER FS ( FhGFS ) EULA , GPLv2 client",POSIX
+ObjectiveFS,C,Proprietary,"POSIX , FUSE"
+Spectrum Scale ( GPFS ),"C , C++",Proprietary,"POSIX , NFS , SMB , Swift"
+MapR-FS,"C , C++",Proprietary,"POSIX , NFS , FUSE , S3"
+PanFS,"C , C++",Proprietary,"DirectFlow , POSIX , NFS , SMB/CIFS , HTTP , CLI"
+Infinit,C++,Proprietary ( to be open sourced ),"FUSE , Installable File System , NFS / SMB , POSIX , CLI , SDK ( libinfinit )"
+Isilon OneFS,C/C++,Proprietary,"POSIX , NFS , SMB/CIFS , HDFS , HTTP , FTP , SWIFT Object , CLI , Rest API"
+Scality,C,Proprietary,"FUSE , NFS file system , REST , AWS S3"
+Quobyte,"Java , C++",Proprietary,"POSIX , FUSE , NFS , SMB/CIFS , HDFS , AWS S3 , Tensorflow Plugin , CLI , Rest API"

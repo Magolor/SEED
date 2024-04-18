@@ -1,0 +1,14 @@
+You are a Python debugging expert. Consider the following task:
+<<task_profile>>
+Consider the following Python function `<<api.args_call()>>` that is expected to complete the above task (abstention is allowed):
+```python
+<<code>>
+```
+However, this code fails on the following example:
+<<example_desc>>
+Please analyze the code and fix the bug: either let the program return the correct output, or let the program return `None` to abstain correctly.
+The bugfix should be robust, instead of only passing the provided examples.
+Your response should be in the following format (the markdown format string should be included):
+```python
+<<template_desc>>
+```

@@ -1,0 +1,14 @@
+Postcode district,Post town,Coverage,Local authority area
+PR0,PRESTON,Express Gifts,non-geographic
+PR1,PRESTON,"City Centre , Avenham , Broadgate , Deepdale , Fishwick , St. Matthew 's , Penwortham","City of Preston , South Ribble"
+PR2,PRESTON,"Ashton On Ribble , Brookfield , Cadley , Fulwood , Grimsargh , Haighton , Ingol , Larches , Lea , Ribbleton , Riversway , Sharoe Green , Tanterton",City of Preston
+PR3,PRESTON,"Barnacre-with-Bonds , Barton , Bilsborrow , Bonds , Bowgreave , Broughton , Cabus , Calder Vale , Chipping , Claughton , Forton , Garstang , Goosnargh , Great Eccleston , Inglewhite , Little Eccleston , Longridge , Myerscough , Oakenclough , Pilling , Ribchester , St Michael 's On Wyre , Scorton , Whittingham , Winmarleigh","Fylde , City of Preston , Ribble Valley , Wyre"
+PR4,PRESTON,"Becconsall , Catforth , Clifton , Cottam , Eaves , Elswick , Freckleton , Hesketh Bank , Hutton , Inskip , Kirkham , Lea Town , Longton , Much Hoole , New Longton , Newton , Tarleton , Thistleton , Treales , Roseacre and Wharles , Walmer Bridge , Warton , Wesham , Woodplumpton , Wrea Green","Fylde , City of Preston , South Ribble , West Lancashire"
+PR5,PRESTON,"Bamber Bridge , Coupe Green , Cuerdale , Cuerden , Gregson Lane , Higher Walton , Hoghton , Lostock Hall , Riley Green , Samlesbury , Walton-le-Dale , Walton Park , Walton Summit","South Ribble , Chorley"
+PR6,CHORLEY,"Abbey Village , Adlington , Anderton , Anglezarke , Astley Village , Brindle , Brinscall , Clayton-le-Woods , Heapey , Heath Charnock , Wheelton , White Coppice , Whittle-le-Woods , Withnell",Chorley
+PR7,CHORLEY,"Adlington , Buckshaw Village , Charnock Richard , Coppull , Eccleston , Euxton , Heath Charnock , Heskin",Chorley
+PR8,SOUTHPORT,"Ainsdale , Birkdale , Blowick , Scarisbrick","Sefton , West Lancashire"
+PR9,SOUTHPORT,"Banks , Churchtown , Crossens , Marshside","Sefton , West Lancashire"
+PR11,PRESTON,Great Universal Stores / Department for Work and Pensions delivering to its address in PR1,non-geographic
+PR25,LEYLAND,"Leyland , Clayton-le-Woods , Cuerden , Farington","South Ribble , Chorley"
+PR26,LEYLAND,"Leyland , Bretherton , Croston , Farington Moss , Moss Side , Ulnes Walton","South Ribble , Chorley"

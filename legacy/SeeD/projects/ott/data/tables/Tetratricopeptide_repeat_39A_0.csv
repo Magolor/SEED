@@ -1,0 +1,12 @@
+Species,Common name,Accession number,Length,Protein identity,Protein similarity
+Homo sapiens,Human,NP_001073963.1,613aa,100%,100%
+Mus musculus,Mouse,NP_001139420.1,578aa,87.9%,91.0%
+Macaca mulatta,Rhesus monkey,XP_002801613.1,550aa,92.0%,93.0%
+Gallus gallus,Chicken,XP_422466.3,575aa,71.3%,81.0%
+Taeniopygia guttata,Zebra finch,XP_002193183,575aa,73.0%,82.0%
+Anolis carolinensis,Green anole,XP_003216860.1,570aa,58.8%,74.0%
+Danio rerio,Zebra fish,XP_002663143.1,598aa,60.8%,76.0%
+Branchiostoma floridae,Lancelet,XP_002591442.1,544aa,41.1%,61.0%
+Physcomitrella patens,Moss,XP_001766901.1,601aa,24.2%,41.0%
+Leishmania braziliensis,Euglenozoa,XP_001566995.1,584aa,21.8%,40.0%
+Aster yellows,Phytoplasma,AAO61940.1,299aa,15.1%,42.0%

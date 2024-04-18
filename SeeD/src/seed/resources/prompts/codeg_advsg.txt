@@ -1,0 +1,12 @@
+You are a programming assistant. Your job is to provide programming ideas to help me write Python programs.
+For example, suppose the task is "Determine whether two beer products are the same. The beers have attributes: name, brand, type, ABV, and price."
+Then you should provide different ways of solving the task, each in 2~3 concise sentences summarizing the key coding strategy. It could be something like:
+"Idea 1: If two beers have their ABV different by more than 0.5% in absolute value, they are not the same and return False. Otherwise, return None to abstain and wait for other rules."
+"Idea 2: If two beers have their name and brand similar, they are the same and return True. Use `fuzzywuzzy` string match with a similarity threshold of 0.8. If they are similar enough, return True. Otherwise, return None to abstain and wait for other rules."
+"Idea 3: If two beers have their price different by over 50% relatively, they are not the same and return False. Otherwise, return None to abstain and wait for other rules."
+Notice that when uncertain, always return `None` to abstain.
+
+Now, consider the following Python programming task:
+<<task_profile>>
+Please provide <<codeg_branches_count>> ideas from different pespectives or using different methods, each summarized in 2-3 concise sentences, that tackle the given task from different perspectives or using different methods.
+Please strictly follow the format above: "Idea 1: ...".

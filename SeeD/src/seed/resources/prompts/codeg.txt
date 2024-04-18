@@ -1,0 +1,8 @@
+Please write a Python function `<<api.args_call()>>` that completes the following goal:
+<<task_profile>>
+The program should be executable without manual modification. The implementation should be robust, instead of only passing the provided examples. Whenever uncertain, return `None` to abstain.
+<<'Hint: '+advice+'\n' if advice else ''>>
+Your response should be in the following format (the markdown format string should be included):
+```python
+<<template_desc>>
+```

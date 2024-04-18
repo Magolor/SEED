@@ -1,0 +1,21 @@
+Firewall,License,Cost,OS
+Clavister,Proprietary,Included on all Clavister NGFWs,Proprietary operating system cOS Core
+Check Point,Proprietary,Included on Check Point security gateways,Proprietary operating system Check Point IPSO and Gaia ( Linux -based )
+FortiGate,Proprietary,Included on all Fortigate devices,"Proprietary , FortiOS , Based on the Linux kernel"
+Palo Alto Networks,Proprietary,Included on Palo Alto Networks firewalls,Proprietary operating system PANOS
+Sophos,Proprietary,Included on Sophos UTM,Linux -based appliance
+Cisco ASA Firepower,Proprietary,Included on all CISCO ASA devices,Proprietary operating system
+Cisco PIX,Proprietary,Included on all CISCO PIX devices,Proprietary operating system
+Juniper SSG,Proprietary,Included on Netscreen security gateways,Proprietary operating system ScreenOS
+Juniper SRX,Proprietary,Included on SRX security gateways,Proprietary operating system Junos
+Sonicwall,Proprietary,Included on Dell appliance,Proprietary operating system SonicOS Based on the Linux kernel
+Barracuda Firewall,Proprietary,Included Firewall Next Generation appliance,Windows -based appliance embedded firewall distribution
+Cyberoam,Proprietary,Included Firewall Sophos appliance,Windows -based appliance embedded firewall distribution
+D-Link,Proprietary,Included Firewall DFL,Windows -based appliance embedded firewall distribution
+Endian Firewall,Proprietary,Free / Paid,Linux -based appliance
+Forcepoint NGFW,Proprietary,Included on all Forcepoint NGFW devices,Proprietary operating system
+OPNsense,Simplified BSD / FreeBSD License,Free / Paid,FreeBSD -based appliance firewall distribution
+pfSense,ESF/ Apache 2.0,Free / Paid,FreeBSD -based appliance firewall distribution
+Untangle,GPL,Free / Paid,Linux -based appliance firewall distribution
+Zeroshell,GPL,Free / Paid,Linux / NanoBSD -based appliance firewall distribution
+SmoothWall,GPL,Free / Paid,Linux -based appliance embedded firewall distribution

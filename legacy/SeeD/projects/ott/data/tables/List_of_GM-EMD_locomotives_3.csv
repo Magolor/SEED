@@ -1,0 +1,9 @@
+Model designation,Build year,Total produced,AAR wheel arrangement,Prime mover,Power output
+FT,1939-1945,"555 A units , 541 B units",B-B ( B-B+B-B with B unit ),EMD 16-567 EMD 16-567A,"2,700 hp ( with B unit )"
+F2,1946,"74 A units , 30 B units",B-B,EMD 16-567B,"1,350 hp ( 1000 kW )"
+F3,1946-1949,"1,111 A units , 696 B units",B-B,EMD 16-567B,"1,500 hp ( 1,100 kW )"
+F7,1949-1953,"2,366 A units , 1,483 B units",B-B,EMD 16-567B,"1,500 hp ( 1,100 kW )"
+FP7,1949-1953,"381 A units , no B units",B-B,EMD 567 B,"1,500 hp ( 1,200 kW )"
+F9,1953-1960,"99 A units , 156 B units",B-B,EMD 16-567C,"1,750 hp ( 1200 kW )"
+FP9,1954-1959,"90 A units , no B units",B-B,EMD 567 C,"1,750 hp ( 1,300 kW )"
+FL9,1956-1960,60,B-A1A,EMD 567 C or EMD 567D1 ; plus 660 V DC ( 3rd rail ),"567C : 1,750 hp ( 1,300 kW ) ; 567D1 : 1,800 hp ( 1,340 kW )"

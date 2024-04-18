@@ -1,0 +1,21 @@
+Language,Major purpose,Based on,Markup type,Structural markup,Presentational markup
+AsciiDoc,Multi-purpose,,Tag,Yes,Yes
+Computable Document Format,"Interactive technical documents , infographics , blogs",Wolfram Language,Tag,Yes,Yes
+Darwin Information Typing Architecture ( DITA ),Technical documents,XML,Tag,Yes,Yes
+DocBook,Technical documents,SGML / XML,Tag,Yes,Yes
+Encoded Archival Description ( EAD ),Finding aids,XML,Tag,Yes,No
+Extensible HyperText Markup Language ( XHTML ),Hypertext documents,XML,Tag,Yes,Yes
+FictionBook,Multi-purpose,XML,Tag,Yes,Yes
+HyperText Markup Language ( HTML ),Hypertext documents,SGML,Tag,Yes,Yes
+Lilypond,Music notation,,Control code,Yes,Yes
+Maker Interchange Format ( MIF ),Technical documents,,Tag,Yes,Yes
+Markdown,"Formatted Technical documents , Hypertext documents , E-mail",Text E-mail conventions,Tag,Yes,Yes
+Math Markup Language ( MathML ),Mathematical documents,XML,Tag,Yes,Yes
+The Music Encoding Initiative ( MEI ),Music notation,XML,Tag,Yes,Yes
+Music Extensible Markup Language ( MusicXML ),Music notation,XML,Tag,Yes,Yes
+Office Open XML ( OOXML ),Multi-purpose,XML / ZIP,Tag,Yes,Yes
+OpenDocument Format ( ODF ),Multi-purpose,XML / ZIP,Tag,Yes,Yes
+Open Mathematical Document ( OMDoc ),Mathematical documents,XML,Tag,Yes,Yes
+Org-mode,"Multi-purpose ( notes , project management , publishing , literate programming )",Text outliner,Tag,Yes,Yes
+reStructuredText,Technical and Multi-purpose documents,Structured Text and Setext,Tag,Yes,Yes
+Rich Text Format ( RTF ),Formatted documents,TeX,Pattern parsing,Yes,Yes

@@ -1,0 +1,21 @@
+Stadium,Location,Country,Attendance,Season
+Bramall Lane,"Sheffield , South Yorkshire",England,"5,265 & 4,000 & 5,103",I
+Cardiff Arms Park,"Cardiff , City of Cardiff",Wales,"6,708 & 4,431",I
+Anfield,"Liverpool , Merseyside",England,"12,329 & 10,058",II & III
+Parc des Sports et de l'Amitie,"Narbonne , Languedoc-Roussillon",France,"7,743 & 4,479 & 5,070",II & XI
+Sixfields,"Northampton , East Midlands",England,"3,087",III
+Tynecastle,"Edinburgh , City of Edinburgh",Scotland,"6,863 & 4,978",III & IV
+Vetch Field,"Swansea , City of Swansea",Wales,"8,572",III
+Oakwell,"Barnsley , South Yorkshire",England,"4,556",IV
+Saltergate,"Chesterfield , Derbyshire",England,"4,801",IV
+Welford Road,"Leicester , East Midlands",England,"8,233 & 5,259 & 3,589",IV & VI & IX
+Stade d'Albert Domec,"Carcassonne , Aude",France,"3,000 & 6,109",VII & XI
+Talbot Athletic Ground,"Port Talbot , Neath Port Talbot",Wales,"3,128",VIII
+Stade Saint-Michel,"Canet-en-Roussillon , Pyrénées-Orientales",France,"4,551",XI
+Estadi Olímpic Lluís Companys,"Barcelona , Catalonia",Spain,"18,150",XIV
+Stade de la Méditerranée,"Béziers , Hérault",France,"9,800",XIV
+Rodney Parade,"Newport , City of Newport",Wales,"5,597",XIV
+The Gnoll,"Neath , Neath Port Talbot",Wales,"1,495",XV
+Stade Yves-du-Manoir,"Montpellier , Languedoc-Roussillon",France,"9,372",XVI
+Priestfield,"Gillingham , Kent",England,"3,930 & 3,041",XVII & XVIII
+Stade de la Mosson,"Montpellier , Languedoc-Roussillon",France,"13,858",XVII

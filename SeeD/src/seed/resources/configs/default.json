@@ -1,0 +1,10 @@
+{
+    "llm_config": {
+        "model": "gpt-4",
+        "api_key": "<OPENAI_API_KEY>",
+        "organization": "<OPENAI_ORG>",
+        "temperature": 0,
+        "sleep": 0.1,
+        "retry": 3
+    }
+}

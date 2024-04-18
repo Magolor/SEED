@@ -1,0 +1,9 @@
+Route,Length ( mi ),Length ( km ),From,Via,To
+CR 141,6.83,10.99,NY 55 / CR 14 in Bethel,Horseshoe Lake and White Lake roads,CR 142 / CR 143 in Liberty
+CR 142,2.15,3.46,CR 141 / CR 143,Swan Lake Road in Liberty,NY 55 / CR 15
+CR 143,4.96,7.98,CR 141 / CR 142,Briscoe and White Sulphur roads in Liberty,NY 52
+CR 143A,0.05,0.08,CR 141,Briscoe Road in Liberty,CR 143
+CR 144,3.76,6.05,NY 52 in Callicoon,Briscoe Road,CR 143 in Liberty
+CR 145,2.14,3.44,NY 52,Dahlia Road in Liberty,CR 146
+CR 146,4.01,6.45,CR 145 in Liberty,Dalhia Road,CR 178 in Rockland
+CR 149,8.69,13.99,NY 52 in Callicoon,Shandelee Road and Main Street,CR 178 in Rockland

@@ -1,0 +1,9 @@
+Frequency,UHF,kW,Service,System
+471.25 MHz,21,0.023,BBC One Wales,PAL System I
+489.833 MHz,23-,0.001,BBC Mux B,DVB-T
+495.25 MHz,24,0.023,ITV1 Wales,PAL System I
+513.833 MHz,26-,0.001,BBC Mux 1,DVB-T
+519.25 MHz,27,0.023,BBC Two Wales,PAL System I
+545.833 MHz,30-,0.005,Digital 3 & 4 Mux 2,DVB-T
+551.25 MHz,31,0.023,S4C,PAL System I
+578.000 MHz,34,0.005,SDN Mux A,DVB-T

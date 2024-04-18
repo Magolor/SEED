@@ -1,0 +1,21 @@
+Name,Symbol,Quantity,Expression in terms of SI base units
+square metre,m,area,m
+cubic metre,m,volume,m
+newton second,N⋅s,"momentum , impulse",m⋅kg⋅s
+newton metre second,N⋅m⋅s,angular momentum,m ⋅kg⋅s
+newton metre,N⋅m = J/rad,"torque , moment of force",m ⋅kg⋅s
+newton per second,N/s,yank,m⋅kg⋅s
+reciprocal metre,m,"wavenumber , optical power , curvature , spatial frequency",m
+kilogram per square metre,kg/m,area density,m ⋅kg
+kilogram per cubic metre,kg/m,"density , mass density",m ⋅kg
+cubic metre per kilogram,m /kg,specific volume,m ⋅kg
+joule second,J⋅s,action,m ⋅kg⋅s
+joule per kilogram,J/kg,specific energy,m ⋅s
+joule per cubic metre,J/m,energy density,m ⋅kg⋅s
+newton per metre,N/m = J/m,"surface tension , stiffness",kg⋅s
+watt per square metre,W/m,"heat flux density , irradiance",kg⋅s
+square metre per second,m /s,"kinematic viscosity , thermal diffusivity , diffusion coefficient",m ⋅s
+pascal second,Pa⋅s = N⋅s/m,dynamic viscosity,m ⋅kg⋅s
+kilogram per metre,kg/m,linear mass density,m ⋅kg
+kilogram per second,kg/s,mass flow rate,kg⋅s
+watt per steradian square metre,W/ ( sr⋅m ),radiance,kg⋅s

@@ -1,0 +1,11 @@
+OTA virtual channel ( PSIP ),Actual channel,Vidéotron Cable,Call sign,Network,Lang
+2.1,19 ( UHF ),2,CBFT-DT,Ici Radio-Canada Télé,FR
+6.1,21 ( UHF ),6,CBMT-DT,CBC Television,EN
+10.1,10 ( VHF ),4,CFTM-DT,TVA,FR
+12.1,12 ( VHF ),11,CFCF-DT,CTV,EN
+15.1,15 ( UHF ),8,CKMI-DT,Global,EN
+17.1,26 ( UHF ),3,CIVM-DT,Télé-Québec,FR
+29.1,29 ( UHF ),22,CFTU-DT,Educational independent,FR
+35.1,35 ( UHF ),5,CFJP-DT,V,FR
+47.1,47 ( UHF ),16,CFHD-DT,Multicultural independent,Multi
+62.1,49 ( UHF ),14,CJNT-DT,Citytv,EN

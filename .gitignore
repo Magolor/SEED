@@ -1,0 +1,11 @@
+.DS_Store
+.STATE
+*.pyc
+__pycache__
+projects/*
+models/*
+!legacy/SeeD/projects/
+clear.bash
+push.bash
+openai_api.json
+docs/*

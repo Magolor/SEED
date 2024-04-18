@@ -1,0 +1,19 @@
+Name,Platform,Supported databases,Latest stable release,Licenses,Latest release date
+Alfresco Community Edition,Java,"MySQL , Oracle , SQL Server , PostgreSQL , DB2 ,",201901,LGPL,2019-02-04 [ ± ]
+Ametys CMS,Java,"MySQL , Oracle , SQL Server , JCR , Apache Derby",4.1.11,Apache 2.0 License,2019- ? ? - ? ? [ ± ]
+Apache Roller,Java,"HSQL , MySQL , Oracle , SQL Server , DB2 , PostgreSQL , Apache Derby",5.2.2,Apache 2.0 License,2019-01-11 [ ± ]
+Apache Sling CMS,Java,JCR,0.14.0,Apache 2.0 License,2019-11-22
+Bloomreach Experience Manager,Java,"MySQL , Oracle , SQL Server , Ingres , PostgreSQL , JCR",13.1,Apache 2.0 License,2019-03-20
+Crafter CMS,Java,"Git , Solr , CMIS",3.1.3,GNU GPL v3,2019-09-10 [ ± ]
+dotCMS,Java,"MySQL , Oracle , MSSQL , PostgreSQL",5.2.4,GNU GPL v3,2020-01-24 [ ± ]
+DSpace,Java,"Oracle , PostgreSQL",6.3,BSD License,2018-06-27
+Enonic XP,Java,Embedded NoSQL,7.2.0,GPL v3,2019-12-19
+Fedora Commons,Java,"MySQL , Oracle , PostgreSQL , Mulgara ( MPTSTore RDF Semantic Triplestore )",5.0.2,Apache License,2019-02-14 [ ± ]
+Jahia Community Distribution,Java,"Apache Derby , JCR , MySQL , PostgreSQL",7.2.2,GPL,2018-03-01
+LogicalDOC Community Edition,Java,"MySQL , Oracle , SQL Server , PostgreSQL",7.4.2,LGPL,2016-03-24
+Nuxeo EP,Java,"MySQL , Oracle , SQL Server , Ingres , PostgreSQL , MongoDB",10.2,Apache 2.0 License,2018-07-26
+Magnolia,Java,"H2 , Derby , MySQL , PostgreSQL , Oracle , MSSQL",6.1.4,GPL & proprietary,2019-12-20
+OpenCms,Java,"HSQL , MySQL , Oracle , SQL Server , DB2 , PostgreSQL",11.0.0,LGPL,2019-04-30 [ ± ]
+OpenKM Community Edition,Java,"MySQL , PostgreSQL , Oracle , SQL Server , HSQLDB",6.3.6,GPL,2018-03-06
+OpenWGA,Java,"MySQL , PostgreSQL , IBM DB2 , HSQLDB , Oracle , SQL Server , IBM Lotus Domino , CMIS",7.7.1,GPL & proprietary,2019-07-28 [ ± ]
+XWiki,Java,"MySQL , PostgreSQL , Oracle , SQL Server , HSQLDB",12.0,LGPL,2020-01-29 [ ± ]

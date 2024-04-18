@@ -1,0 +1,109 @@
+Metadata-Version: 2.1
+Name: seed
+Version: 0.1.0.0
+Summary: SEED
+Home-page: https://github.com/Magolor/
+Author: Magolor
+Author-email: magolorcz@gmail.com
+Project-URL: Author, https://github.com/Magolor/
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# SEED: Domain-Specific Data Curation With Large Language Models
+
+This is the code repo for the paper "SEED: Domain-Specific Data Curation With Large Language Models".
+
+SEED is an approach that leverages Large Language Models (LLMs) to automatically generate domain-specific data curation solutions. By describing a task, input data, and expected output, the SEED compiler produces an executable pipeline consisting of LLM-generated code, small models, and data access modules.
+
+The code in this repository **is currently undergoing reconstruction** to develop an out-of-the-box solution suitable for real-world applications, which means it could be temporarily unstable in terms of robustness and performance. Our goal is to provide a streamlined and ready-to-use SEED implementation. During this reconstruction phase, we are gradually enhancing the codebase to improve its usability, performance, and compatibility with different use cases. **In conclusion, the current version is not ready for use, to try out the old version, please refer to the `legacy/` directory.**
+
+# SEED: Legay Version
+
+[Link to the Legacy Version](https://github.com/Magolor/SEED/tree/main/legacy/SeeD)
+
+# SEED: Dev Version
+
+## Info
+
+**Current Version**: v0.2.0
+
+**Compatibility**: Tested on MacBook M1 Pro, MacOS 12.6.2, Python 3.9, Pytorch 1.13.1
+
+**Hardware Requirements**:  None
+
+## Installation
+
+**Notice that the code is currently undergoing reconstruction and probably unable to be installed or utilized!**
+
+First install the prerequisites and the SEED package.
+
+```bash
+git clone git@github.com:Magolor/SEED.git
+cd ./SEED/SeeD/
+pip install -r requirements.txt
+pip install -e .
+cd ..
+```
+
+Then run the installer to initialize configurations (including OpenAI keys):
+```python
+python installer.py
+```
+
+## Quickstart
+
+A quick step-by-step tutorial of building an application using SEED. We use data imputation on the restaurant dataset as an example. 
+
+First, we create the project.
+```python
+# python
+from seed import *
+CreateProject("restaurant", "./projects/")
+```
+
+Then, a project is already created (at `./projects/restaurant/`). There is now an empty configuration file `./projects/restaurant/config.json`:
+```json
+{
+    "name": "",
+    "task_desc": "",
+    "inputs": [],
+    "outputs": [],
+    "evaluation_path": "",
+    "evaluation_metric": ""
+}
+```
+
+You can quickly build the application by defining the task description, task inputs, task outputs, and the evaluation measure. Here is an example (The preprocessed restaurant data file is located in `docs/Restaurant.jsonl`):
+```json
+{
+    "name": "data_imputation",
+    "task_desc": "Given a restaurant's information, deduce the city it is located in.",
+    "inputs": [
+        { "name": "name", "type": "str", "desc": "The name of the restaurant." },
+        { "name": "addr", "type": "str", "desc": "The address of the restaurant." },
+        { "name": "phone", "type": "str", "desc": "The phone number of the restaurant." },
+        { "name": "type", "type": "str", "desc": "The food type of the restaurant." }
+    ],
+    "outputs": [
+        { "name": "city", "type": "str", "desc": "The city the restaurant is located in." }
+    ],
+    "evaluation_path": "data/Restaurant.jsonl",
+    "evaluation_metric": "accuracy",
+}
+```
+
+After completing the configuration and preparing the data, we can directly proceed to compile the project:
+```python
+# python
+CompileProject("./projects/restaurant/")
+```
+
+Please refer to `tutorial.py` for the whole script.
+
+## Advanced Usage
+
+TODO

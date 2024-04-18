@@ -1,0 +1,15 @@
+Name,from ( North ),to ( South )
+Bundesautobahn 1,"Lübeck , Fehmarn , Kopenhaven","Bremen , Münster , Dortmund"
+Bundesautobahn 7,"Kiel , Schleswig , Flensburg","Hanover , Kassel"
+Bundesautobahn 23,"Elmshorn , Itzehoe , Heide",
+Bundesautobahn 24,,Berlin
+Bundesautobahn 25,,Geesthacht
+Bundesautobahn 26,,Stade
+Bundesautobahn 39,,"Winsen/Luhe , Lüneburg"
+Bundesstraße 4,"Quickborn , Bad Bramstedt , Neumünster","Winsen/Luhe , Lüneburg , Uelzen"
+Bundesstraße 5,Danish border,"Geesthacht , Lauenburg , Boizenburg"
+Bundesstraße 73,Cuxhaven,Hamburg
+Bundesstraße 75,"Bargteheide , Bad Oldesloe","Buchholz , Tostedt , Rotenburg/Wümme"
+Bundesstraße 431,Meldorf,Altona
+Bundesstraße 432,"Scharbeutz , Bad Segeberg",Hamburg
+Bundesstraße 433,A7 in Hamburg,Eppendorf
