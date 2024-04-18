@@ -59,9 +59,10 @@ python post_install.py
 SEED is currently under development, many features and optimizations coming!
 
 - [ ] Improve code generation.
-- [ ] Add Seq2Seq model support.
-- [ ] Add tools agent.
+- [ ] Add Seq2Seq model support from legacy.
+- [ ] Add tools agent from legacy.
 - [ ] Improve RAG.
-- [ ] Improve hyperparaeter search.
+- [x] Improve hyperparaeter search.
+- [ ] Integrate hyperparaeter search.
 - [ ] Support multiple outputs.
 - [ ] ...
